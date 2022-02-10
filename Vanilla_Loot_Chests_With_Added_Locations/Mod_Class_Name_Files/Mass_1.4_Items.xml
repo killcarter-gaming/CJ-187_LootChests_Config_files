@@ -1,0 +1,627 @@
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Mass_ManyITEMS_OverHaul_Items -->
+<!-- NBC_Items -->
+
+                "MassNBC_Bag",
+                "MassNBCbootsYellow",
+                "MassNBCglovesBlue",
+                "MassNBChoodYellow",
+                "MassNBCJacketYellow",
+                "MassNBCpantsYellow",
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Vests -->
+
+                "Mass_TradeVest",
+                "Mass_PressVestBlack",
+                "MassBlackYellowMB",
+                "Massczech",
+
+                "Mass_WW2Vest",
+                "MassSSww2Camopants",
+                "MassSSww2CamoBreeches",
+                "MassSSww2Camotop",
+                "Massww2SShelmet",
+
+                "MassPlateCarrier_PartizanM",
+                "MassPlateCarrier_Black",
+                "MassPlateCarrier_ODG",
+                "MassPlateCarrier_Winter",
+
+                "MassHeavyPlateVest_ODG",
+                "MassHeavyPlateVest_Winter",
+                "MassHeavyPlateVest_Black",
+                "MassHeavyPlateVest_PartizanM",
+                "MassHeavyPlateVest_Beige",
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Clothing -->
+
+                "MassGDShirt",
+
+                "MassBlackJacket",
+
+                "MassBlackGorkatop",
+                "MassBlackGorkabottom",
+
+                "Massjeanshorts",
+
+                "Masswoodlandcamovest",
+                "Masswoodlandcamosweater",
+                "Masswoodlandcargopants",
+
+
+                "MassCUUquiltedJacket",
+
+                "Massbrownhuntingbp",
+
+                "Massurbancamohat",
+                "Massurbancamom65",
+                "Massurbancamocargopants",
+
+                "MassTUhikingjacket",
+
+                "Massoreltopgreen",
+                "Massorelpantsgreen",
+
+                "Massblackgp5",
+
+                "MassSmersh",
+
+                "MassUSww2top",
+
+                "MassMandraketop",
+                "MassMandrakebottom",
+
+                "MassWinterBDUJacket",
+                "MassWinterBDUPants",
+
+                "MassWinterCUUJacket",
+                "MassWinterCUUPants",
+
+                "MassHuntingCowboyhat",
+
+                "MassUKAssVestWinter",
+
+                "MassWinterTortilla",
+
+                "MassWinterHuntingHood",
+                "MassWinterHunterTop",
+                "MassWinterHunterPants",
+                "MassWinterHuntingbp",
+
+                "MassGorkaInvertWinterTop",
+                "MassGorkaInvertWinterPants",
+
+                "MassGorkaInvertWoodlandTop",
+                "MassGorkaInvertWoodlandPants",
+
+                "MassczechWinter",
+
+                "MassCoyoteBPUrban",
+                "Massblackhuntingbp",
+
+                "MassCanvasBag",
+
+                "MassSM90Top",
+                "MassSM90Pants",
+
+                "MassSM90WTop",
+                "MassSM90WPants",
+
+                "MassSmershvestWintercomplete",
+                "MassSmershvestcomplete",
+
+                "MasscamoBooniehat",
+
+                "MasscamoTaloon1",
+
+                "MassBeigeJacket",
+                "MassBeigeUshanka",
+
+                "MassGorkaInvertFlecktarnTop",
+                "MassGorkaInvertFlecktarnPants",
+
+                "MassGokuShirt",
+
+                "MassTropicamTop",
+                "MassTropicamPants",
+
+                "MassImprovisedBag_Black",
+                "MassImprovisedBag_Blue",
+                "MassImprovisedBag_Green",
+                "MassImprovisedBag_Orange",
+                "MassImprovisedBag_Pink",
+                "MassImprovisedBag_Red",
+                "MassImprovisedBag_Yellow",
+                "MassImprovisedBag_Woodland",
+                "MassImprovisedBag_Partizan",
+                "MassImprovisedBag_Urban",
+
+                "MassRainCoatcourier_Black",
+                "MassRainCoatcourier_Blue",
+                "MassRainCoatcourier_Green",
+                "MassRainCoatcourier_Orange",
+                "MassRainCoatcourier_Pink",
+                "MassRainCoatcourier_Red",
+                "MassRainCoatcourier_Yellow",
+                "MassRainCoatcourier_Woodland",
+                "MassRainCoatcourier_PartizanM",
+                "MassRainCoatcourier_Urban",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Ghillies -->
+
+                "MassWinterGhillieWrap",
+
+                "MassGhillieSuitBoxWoodland",
+                "MassGhillieTopBoxWoodland",
+                "MassGhillieSuitWoodland",
+                "MassGhillieHood_Woodland",
+                "MassGhillieTopWoodland",
+
+
+                "MassGhillieSuitBoxMossy",
+                "MassGhillieTopBoxMossy",
+                "MassGhillieSuitMossy",
+                "MassGhillieHoodMossy",
+                "MassGhillieTopMossy",
+
+                "MassGhillieSuitBoxWinter",
+                "MassGhillieTopBoxWinter",
+                "MassGhillieSuitSnow",
+                "MassGhillieHood_Snowy",
+                "MassGhillieTopSnow",
+
+                "MassSmershvestWW2complete",
+
+                "MassSmershvestblackcomplete",
+                "MassSmershblack",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Armor_Plates -->
+
+                "MassAR500",
+                "MassAR500pair",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Belts -->
+
+                "MassToolbelt",
+                "MassMolleBelt",
+                "MassMolleBeltBlack",
+                "MassMolleBeltODG",
+                "MassMolleBeltWD",
+                "MassMolleBeltSnow",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- HOLSTERS -->
+
+                "MassPlateCarrierHolster_Black",
+                "MassPlateCarrierHolster_PartizanM",
+                "MassPlateCarrierHolster_Winter",
+                "MassPlateCarrierHolster_ODG",
+
+
+                "Mass_WW2Vest",
+                "MassSSww2Camopants",
+                "MassSSww2CamoBreeches",
+                "MassSSww2Camotop",
+                "Massww2SShelmet",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Pouches -->
+
+                "MassLargeMollePouch",
+                "MassLargeMollePouchBlack",
+                "MassLargeMollePouchGorka",
+                "MassLargeMollePouchGreen",
+
+                "MassPlateCarrierPouches_Black",
+                "MassPlateCarrierPouches_PartizanM",
+                "MassPlateCarrierPouches_Winter",
+                "MassPlateCarrierPouches_ODG",
+
+                "MassLargePlateCarrierPouches",
+                "MassLargePlateCarrierPouches_Black",
+                "MassLargePlateCarrierPouches_Tan",
+
+                "MassPlateCarrierHolster_Black",
+                "MassPlateCarrierHolster_PartizanM",
+                "MassPlateCarrierHolster_Winter",
+                "MassPlateCarrierHolster_ODG",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Head_Gear -->
+
+                "Massmichblack",
+
+                "MassCBhelmet_Green",
+                "MassCBhelmet",
+
+                "MassFedora_Black",
+                "MassFedora_White",
+                "MassFedora_Pink",
+                "MassFedora_Yellow",
+                "MassFedora_Red",
+                "MassFedora_Blue",
+                "MassFedora_Grey",
+                "MassFedora_Brown",
+                "MassFedora_Beige",
+
+                "MassCatEars",
+
+                "MassDetectiveCoat",
+                "MassDetectiveCoat_Black",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Chest_Board_Pieces -->
+
+                "MassChessboard",
+
+                "MassWhitePawn",
+                "MassWhiteQueen",
+                "MassWhiteKing",
+                "MassWhiteBishop",
+                "MassWhiteKnight",
+                "MassWhiteRook",
+
+                "MassblackPawn",
+                "MassblackQueen",
+                "MassblackKing",
+                "MassblackBishop",
+                "MassblackKnight",
+                "MassblackRook",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- ArmBands -->
+
+                "MassArmband_TU",
+                "MassArmband_NCR",
+                "MassArmband_snowBDU",>
+                "MassArmband_PartizanM",
+                "MassArmband_Mandrake",
+                "MassArmband_Woodland",
+                "MassArmband_Urban",
+                "MassArmband_Orel",
+                "MassArmband_BWS",
+                "MassArmband_BT",
+
+                "MassArmbandDouble_White",
+                "MassArmbandDouble_Yellow",
+                "MassArmbandDouble_Orange",
+                "MassArmbandDouble_Red",
+                "MassArmbandDouble_Green",
+                "MassArmbandDouble_Pink",
+                "MassArmbandDouble_Blue",
+                "MassArmbandDouble_Black",
+                "MassArmbandDouble_Smiley",
+                "MassArmbandDouble_NCR",
+                "MassArmbandDouble_TU",
+                "MassArmbandDouble_snowBDU",
+                "MassArmbandDouble_PartizanM",
+                "MassArmbandDouble_Mandrake",
+                "MassArmbandDouble_Woodland",
+                "MassArmbandDouble_Urban",
+                "MassArmbandDouble_Orel",
+                "MassArmbandDouble_BWS",
+                "MassArmbandDouble_BT",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Ballistic_Shield -->
+
+                "MassBallisticShield",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Improvised_Armor -->
+
+                "MassImprovArmor",
+                "MassImprovArmorlow",
+                "MassImprovArmormed",
+                "MassImprovArmor_Red",
+                "MassImprovArmor_Blue",
+                "MassImprovArmor_Green",
+                "MassImprovArmor_Orange",
+                "MassImprovArmor_Yellow",
+                "MassImprovArmor_Pink",
+                "MassImprovArmor_Smiley",
+                "MassImprovArmor_Black",
+                "MassImprovArmor_White",
+
+                "MassImprovArmor_low_Red",
+                "MassImprovArmor_low_Blue",
+                "MassImprovArmor_low_Green",
+                "MassImprovArmor_low_Orange",
+                "MassImprovArmor_low_Pink",
+                "MassImprovArmor_low_Smiley",
+                "MassImprovArmor_low_Black",
+                "MassImprovArmor_low_White",
+                "MassImprovArmor_low_Yellow",
+
+                "MassImprovArmormed_Red",
+                "MassImprovArmormed_Blue",
+                "MassImprovArmormed_Green",
+                "MassImprovArmormed_Orange",
+                "MassImprovArmormed_Pink",
+                "MassImprovArmormed_Smiley",
+                "MassImprovArmormed_Black",
+                "MassImprovArmormed_White",
+                "MassImprovArmormed_Yellow",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Backpacks -->
+
+                "MassClothing_Bag",
+
+                "MassSurvivorBag",
+                "MassSurvivorBag_Green",
+                "MassSurvivorBag_Black",
+                "MassSurvivorBag_Tan",
+                "MassSurvivorBag_Winter",
+
+                "MassSlingBag",
+                "MassSlingBagDesert",
+                "MassSlingBagGorka",
+
+                "MassMolleBagBlack",
+                "MassMolleBagDesert",
+                "MassMolleBagGorka",
+
+                "MassRatnik_Tan",
+                "MassRatnik_Black",
+                "MassRatnik",
+
+                "MasscamoTaloon",
+
+                "Massbag",
+                "Massbag2",
+                "Massbag3",
+                "Massbag4",
+
+                "Massmedbag",
+                "Massmedbag_blue",
+                "Massmedbag_green",
+
+                "MassMedical_Bag",
+                "MassMedical_Bag_Blue",
+                "MassMedical_Bag_Green",
+
+                "MassLargeSmersh",
+                "MassLargeSmersh_Black",
+                "MassLargeSmersh_Tan",
+
+                "MassTacticalBag",
+                "MassTacticalBagBlack",
+                "MassTacticalBagWD",
+
+                "MassRuckBagDesert",
+                "MassRuckBagBlack",
+                "MassRuckBagGorka",
+                "MassRuckBagGreen",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- MRE'S -->
+
+                "MassHeli_MRE9",
+                "MassHeli_MRE10",
+                "MassHeli_MRE4",
+                "MassMRE4",
+                "MassMRE9",
+                "MassMRE10",
+                "MassMREPoppySeedCakeW",
+                "MassMREPoppySeedCakeUW",
+                "MassMRETortillaUW",
+                "MassMRETortillaW",
+                "MassMRERationHeater",
+                "MassMRECrackersW",
+                "MassMRECrackersUW",
+                "MassMREBreadW",
+                "MassMREBreadUW",
+                "MassMREPB",
+                "MassMREJelly",
+                "MassMREGrapeJelly",
+                "MassMRETobasco",
+                "MassMREHotCheeseSpread",
+                "MassMREOatmealCookieW",
+                "MassMREOatmealCookieUW",
+                "MassMREGum",
+                "MassMREDBBCobblerW",
+                "MassMREMCBeefStewW",
+                "MassMREMCChilliMacW",
+                "MassMREMCSpaghettiW",
+                "MassMREMCSpaghetti",
+                "MassMREMCChilliMac",
+                "MassMREMCBeefStew",
+                "MassMREDBBCobbler",
+                "MassPKA",
+                "MassMREDBBPuddingW",
+                "MassMREDBBPudding",
+                "MassMREMCBeefTaco",
+                "MassMREMCBeefTacoW",
+                "MassGoatStew",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Mass_Base_Parts -->
+
+                "MassDresser",
+                "MassDrawer",
+                "MassImprovGunRack",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Mass_Weapon_LOADOUTS -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassLightRatnik",
+                "MassLightRatnik_Desert",
+                "MassLightRatnik_Black",
+                "MassLightRatnik_Olive",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "Massarmsan",                 "shotgun_Suppressor",                                                                              "HuntingOptic"
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassM19",
+                "MassM19_Wood",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "Mass357M1911",                "Mass357M1911Mag",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassG18",                     "MassG18Mag",
+                "MassG18_Green",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassTMP153",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassAR15",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "Massmini14",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "Mass9x39Palm",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassB52",                                                                                                                         "ACOGOptic"
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassStevens301SuperShort",
+                "MassStevens301SuperShort_green",
+                "MassStevens301SuperShort_tan",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassStevens301SHORT",
+                "MassStevens301SHORT_green",
+                "MassStevens301SHORT_tan",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassStevens301",
+                "MassStevens301_green",
+                "MassStevens301_tan",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassType81",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassM16",                      "MassMuzzle556",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassMP153",
+                "MassMP153Short",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassAR15DMR",                                                            "MassAR15AdjBttstck",
+                "MassAR15DMR_Desert",                                                     "MassStockSupport",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "Mass1P69",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassM110",                      "Mass308STANAG",                "MassSuppressor308",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassSVT40",                     "MassSVTmag",
+                "MassSVT40_Black",
+                "MassSVT40_Green",
+                "MassSVT40_Camo",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassPPSH41_Green",  "Massppshdrum",
+                "MassPPSH41_Black",  "Massppshbox",
+                "MassPPSH41_Camo",   "MassPpskn",
+                "MassPPSH41",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "Massm24",                       "Mass338M24Mag",                "MassMuzzle338",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "Massm300",                      "Massm300mag",                                                                                      "ACOGOptic"
+                "Massm300_camo",                                                                                                                     "HuntingOptic"
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassKivaari",       "kivaarimag",                                                                                                   "ACOGOptic"
+	                                                                                                                                                 "HuntingOptic"
+
+ <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                "MassScout556",      "Scout556mag",                    "MassScoutSuppressor",                                                        "MassScoutLRS",
+                                                                        "MassMuzzle556",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Munitions -->
+
+                "MassAmmoBox_556x45_10Rnd",
+                "Ammo_338",
+                "Ammo_408Chey",
+                "AmmoBox_408Chey",
+                "AmmoBox_338",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Mass_Weapon_Attachments -->
+
+                "Mag_CMAG_10Rnd_Black",
+                "kivaarimag",
+                "Scout556mag",
+                "Massm300mag",
+
+                "MassStockPouch",
+
+                "MassMuzzle762",
+                "MassMuzzle556",
+                "MassMuzzle338",
+                "MassMuzzlePistol",
+
+                "MassYHM_1022",
+
+                "MassM417Stock",
+
+                "MassHolo",
+                "MassHolo2",
+                "MassScope",
+
+                "MassScoutLRS",
+                "MassMuzzle556",
+                "MassScoutSuppressor",
+
+                "shotgun_Suppressor",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Mass_Misc -->
+
+                "MassCowboyHat_White",
+                "MassPaint",
+                "MassPaintR",
+                "MassScrap",
+                "MassScrapR",
+
+                "MassMeth",
+
+                "MassBinocs",
+                "MassBinocsON",
+
+                "MassSmiley",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->

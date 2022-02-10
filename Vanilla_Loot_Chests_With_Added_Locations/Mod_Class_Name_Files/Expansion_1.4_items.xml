@@ -1,0 +1,229 @@
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- AMMO -->
+
+                "ExpansionAmmoFlareLight",
+
+                "Ammo_Expansion_M203_Smoke_White",
+                "Ammo_Expansion_M203_Smoke_Red",
+                "Ammo_Expansion_M203_Smoke_Green",
+                "Ammo_Expansion_M203_Smoke_Yellow",
+                "Ammo_Expansion_M203_Smoke_Purple",
+                "Ammo_Expansion_M203_Smoke_Teargas",
+
+                "Ammo_Expansion_M203_Sticky_Smoke_White",
+                "Ammo_Expansion_M203_Sticky_Smoke_Red",
+                "Ammo_Expansion_M203_Sticky_Smoke_Green",
+                "Ammo_Expansion_M203_Sticky_Smoke_Yellow",
+                "Ammo_Expansion_M203_Sticky_Smoke_Purple",
+                "Ammo_Expansion_M203_Sticky_Smoke_Teargas",
+
+                "Expansion_Ammo_ArrowBolt",
+                "Expansion_Ammo_8mm",
+                "Ammo_Expansion_46x30",
+                "Ammo_Expansion_338",
+
+                "Ammo_Expansion_M203_HE",
+                "ExpansionAmmoRPG",
+                "ExpansionAmmoLAW",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- EXPLOSIVES -->
+
+                "ExpansionTripwireTrap",
+                "ExpansionSatchel",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- AMMOBOXES -->
+
+                "Expansion_AmmoBox_8mm_15rnd",
+                "AmmoBox_Expansion_46x30_25rnd",
+                "AmmoBox_Expansion_338_15rnd",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- MAGAZINES -->
+
+                "Mag_Expansion_Taser",	
+                "Mag_Expansion_Vityaz_30Rnd",	
+                "Mag_Expansion_M14_20Rnd",
+                "Mag_Expansion_M14_10Rnd",
+                "Mag_Expansion_M9_15Rnd",
+                "Mag_Expansion_MPX_50Rnd",
+                "Mag_Expansion_G36_30Rnd",
+                "Mag_Expansion_Kedr_20Rnd",
+                "Mag_Expansion_MP7_40Rnd",
+                "Mag_Expansion_AWM_5Rnd",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- OPTICS -->
+
+                "ExpansionKar98ScopeOptic",
+                "ExpansionDeltapointOptic",
+                "ExpansionEXPS3HoloOptic",
+                "ExpansionHAMROptic",
+                "Expansion_PMII25Optic",
+                "ExpansionReflexMRSOptic",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- MISC ATTACHEMENTS -->
+
+                "Expansion_M1A_RailAtt",
+                "Expansion_ANPEQ15_Red",
+                "Expansion_Kar98_Bayonet",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- CROSSBOWS -->
+
+                "Expansion_Crossbow",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- LAUNCHERS -->
+
+                "ExpansionRPG7",
+                "ExpansionLAW",
+                "Expansion_M79",
+                "ExpansionFlaregun",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- PISTOLS -->
+
+                "Expansion_Taser_Yellow",
+                "Expansion_Taser_Black",	
+                "Expansion_M9",
+                "Expansion_Longhorn",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- SUBMACHINE GUNS -->
+
+                "Expansion_G36",
+                "Expansion_MPX",
+                "Expansion_MP5",
+                "Expansion_MP7",
+                "Expansion_Kedr",
+                "Expansion_VityazSN",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- ASSAULT RIFLES -->
+
+                "Expansion_M16",
+                "Expansion_M1A",
+                "Expansion_M14",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- RIFLES -->
+
+                "Expansion_DT11",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- SHOTGUNS -->
+
+                "Expansion_BenelliM4",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- SNIPER RIFLES -->
+
+                "Expansion_AWM",
+                "Expansion_Kar98",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- BASE_BUILDING_Kits -->	
+
+                "ExpansionFloorKit",
+                "ExpansionWoodPillarKit",	
+                "ExpansionRampKit",
+                "ExpansionStairKit",
+                "ExpansionWallKit",
+                "ExpansionCamoBoxKit",
+                "ExpansionBarrierGateKit",
+                "ExpansionCamoTentKit",
+                "ExpansionBarbedWireKit",
+	            "ExpansionHescoKit",
+                "ExpansionHelipadKit",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- SPRAY CANS -->
+
+                "ExpansionSpraycanGreen",
+                "ExpansionSpraycanBlue",
+                "ExpansionSpraycanWhite",
+                "ExpansionSpraycanRed",
+                "ExpansionSpraycanBlack",
+                "ExpansionSpraycanGrey",
+                "ExpansionSpraycanWine",
+                "ExpansionSpraycanYellow",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- SPRAY CAN CAMOS -->
+
+                "ExpansionSpraycanWeeb",
+                "ExpansionSpraycanDahoman",
+                "ExpansionSpraycanIon",
+                "ExpansionSpraycanPresident",
+                "ExpansionSpraycanVrana",
+                "ExpansionSpraycanWave",
+                "ExpansionSpraycanCivilian",
+                "ExpansionSpraycanMedical",
+                "ExpansionSpraycanUber",
+                "ExpansionSpraycanBlueline",
+                "ExpansionSpraycanDigital",
+                "ExpansionSpraycanElliptical",
+                "ExpansionSpraycanFurious",
+                "ExpansionSpraycanGrayWatcher",
+                "ExpansionSpraycanJeans",
+                "ExpansionSpraycanShadow",
+                "ExpansionSpraycanSpeedy",
+                "ExpansionSpraycanSunset",
+                "ExpansionSpraycanWasp",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Safes -->
+
+                "ExpansionSafeMini",
+                "ExpansionSafeMedium",
+                "ExpansionSafeLarge",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Gun Rack -->
+
+                "ExpansionGunrack",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Code Lock -->
+
+                "ExpansionCodeLock",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Tents -->
+
+                "ExpansionATent",
+                "ExpansionCamoTent",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Raid Tools -->
+
+                "ExpansionBoltCutters",
+                "ExpansionPropaneTorch",
+                "ExpansionToolBox",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- CONSUMABLES TYPES -->
+
+                "ExpansionMilkBottle",
+                "ExpansionBread1",
+                "ExpansionBread2",
+                "ExpansionBread3",
+                "ExpansionCheese1",
+                "ExpansionCheese2",
+                "ExpansionCheese3",
+                "ExpansionCheese4",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- CURRENCYS -->
+
+                "ExpansionGoldBar",
+                "ExpansionSilverBar",
+                "ExpansionGoldNugget",
+                "ExpansionSilverNugget",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->

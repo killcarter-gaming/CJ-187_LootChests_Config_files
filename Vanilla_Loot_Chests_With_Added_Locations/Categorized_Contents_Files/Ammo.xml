@@ -1,0 +1,245 @@
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Dayz_Game -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Ammo -->
+
+                "AmmoBox",
+            	"AmmoBox_9x39",
+            	"AmmoBox_9x39AP",
+	            "AmmoBox_308WinTracer",
+	            "AmmoBox_762x54",
+	            "AmmoBox_762x54Tracer",
+	            "AmmoBox_545x39",
+	            "AmmoBox_545x39Tracer",
+	            "AmmoBox_556x45",
+	            "AmmoBox_556x45Tracer",
+	            "AmmoBox_762x39",
+	            "AmmoBox_762x39",
+            	"AmmoBox_762x39Tracer",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Expansion_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- AMMO -->
+
+                "ExpansionAmmoFlareLight",
+
+                "Ammo_Expansion_M203_Smoke_White",
+                "Ammo_Expansion_M203_Smoke_Red",
+                "Ammo_Expansion_M203_Smoke_Green",
+                "Ammo_Expansion_M203_Smoke_Yellow",
+                "Ammo_Expansion_M203_Smoke_Purple",
+                "Ammo_Expansion_M203_Smoke_Teargas",
+
+                "Ammo_Expansion_M203_Sticky_Smoke_White",
+                "Ammo_Expansion_M203_Sticky_Smoke_Red",
+                "Ammo_Expansion_M203_Sticky_Smoke_Green",
+                "Ammo_Expansion_M203_Sticky_Smoke_Yellow",
+                "Ammo_Expansion_M203_Sticky_Smoke_Purple",
+                "Ammo_Expansion_M203_Sticky_Smoke_Teargas",
+
+                "Expansion_Ammo_ArrowBolt",
+                "Expansion_Ammo_8mm",
+                "Ammo_Expansion_46x30",
+                "Ammo_Expansion_338",
+
+                "Ammo_Expansion_M203_HE",
+                "ExpansionAmmoRPG",
+                "ExpansionAmmoLAW",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- CPB_Weapons_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Ammo -->
+
+                "Ammo_Flare",
+                "Ammo_FlareRed",
+                "Ammo_FlareGreen",
+                "Ammo_FlareBlue",
+
+                "Ammo_40mm_Color_White",
+                "Ammo_40mm_Color_Red",
+                "Ammo_40mm_Color_Yellow",
+                "Ammo_40mm_Color_Green",
+                "Ammo_40mm_Color_Purple",
+
+                "Ammo_12gaPellets",
+                "Ammo_12gaRubberSlug",
+                "Ammo_12gaSlug",
+                "Ammo_new_12gaBuckshot5",
+                "Ammo_new_12gaExpressBuckshot6",
+                "Ammo_new_12gaBuckshot7",
+                "Ammo_new_12gaMagnumBuckshot8",
+                "Ammo_new_12gaRip",
+                "Ammo_new_12gaAP20",
+                "Ammo_new_12ga2Sabot",
+                "Ammo_new_12gaFtxCustomLIte",
+                "Ammo_new_12gaGrizzly40",
+                "Ammo_new_12gaPoleva3",
+                "Ammo_new_12gaPoleva6",
+                "Ammo_new_12ga50Bmg",
+                "Ammo_new_12gaLead",
+                "Ammo_new_12gaFlchetteS",
+                "Ammo_new_12gaSuperFormance",
+                "Ammo_new_12gaCopperSabotPremier",
+
+                "Ammo_22",
+                "Ammo_new_22Subsonic",
+                "Ammo_new_22StandardVelocity",
+                "Ammo_new_22HighVelocity",
+                "Ammo_new_22HyperVelocity",
+
+                "Ammo_308WinTracer",
+                "Ammo_308Win",
+                "Ammo_308WinTracer",
+                "Ammo_new_308WinM61",
+                "Ammo_new_308WinM62",
+                "Ammo_new_308WinM80",
+                "Ammo_new_308WinM993",
+                "Ammo_new_308WinUltraNosler",
+                "Ammo_new_308WinFMJ",
+                "Ammo_new_308WinSP ",
+
+                "Ammo_357",
+                "Ammo_new_357QuikShokJhp",
+                "Ammo_new_357HollowPoint",
+                "Ammo_new_357GoldDotJhp",
+                "Ammo_new_357ClassicJhp",
+                "Ammo_new_357GoldenSaberJhp",
+                "Ammo_new_357Semiwadcutter",
+                "Ammo_new_357SilvertipJhp",
+
+                "Ammo_380",
+                "Ammo_new_380BondedJh",
+                "Ammo_new_380Jhp",
+                "Ammo_new_380HydraShokJhp",
+                "Ammo_new_380SilvertipJhp",
+                "Ammo_new_380Xtp",
+                "Ammo_new_380Fmj",
+
+                "Ammo_45ACP",
+                "Ammo_new_45AcpAP",
+                "Ammo_new_45AcpFmj",
+                "Ammo_new_45AcpHydrShock",
+                "Ammo_new_45AcpLasermatchFmj",
+                "Ammo_new_45AcpRip",
+
+                "Ammo_545x39",
+                "Ammo_545x39Tracer",
+                "Ammo_new_545x397H39",
+                "Ammo_new_545x39Fmj",
+                "Ammo_new_545x39Hp",
+                "Ammo_new_545x39Sp",
+                "Ammo_new_545x39Bp",
+                "Ammo_new_545x39Bs",
+                "Ammo_new_545x39Bt",
+                "Ammo_new_545x39Prs",
+                "Ammo_new_545x39T",
+                "Ammo_new_545x39Us",
+
+                "Ammo_556x45",
+                "Ammo_556x45Tracer",
+                "Ammo_new_556x45M855",
+                "Ammo_new_556x45M855A1",
+                "Ammo_new_556x45M856",
+                "Ammo_new_556x45M856A1",
+                "Ammo_new_556x45M995",
+                "Ammo_new_556x45Mk255",
+                "Ammo_new_556x4555Fmj",
+                "Ammo_new_556x4555Hp",
+                "Ammo_new_556x45Warmage",
+
+                "Ammo_762x39",
+                "Ammo_762x39Tracer",
+                "Ammo_new_762x39Hp",
+                "Ammo_new_762x39Bp",
+                "Ammo_new_762x39Ps",
+                "Ammo_new_762x39T45M",
+                "Ammo_new_762x39Us",
+
+                "Ammo_762x54",
+                "Ammo_762x54Tracer",
+                "Ammo_new_762x547Bt1",
+                "Ammo_new_762x547H37",
+                "Ammo_new_762x54Lps",
+                "Ammo_new_762x54Snb",
+                "Ammo_new_762x547H1",
+                "Ammo_new_762x54T46M",
+
+                "Ammo_9x19",
+                "Ammo_new_9x19Pst",
+                "Ammo_new_9x19Pso",
+                "Ammo_new_9x19LugerCci",
+                "Ammo_new_9x19Rip",
+                "Ammo_new_9x19Ap",
+                "Ammo_new_9x197H31",
+                "Ammo_new_9x19QuakeMaker",
+
+                "Ammo_9x39",
+                "Ammo_9x39AP",
+                "Ammo_new_9x39Sp5",
+                "Ammo_new_9x39Sp6",
+                "Ammo_new_9x397H9",
+                "Ammo_new_9x397H12",
+
+                "Ammo_new_46x30",
+                "Ammo_50Cal",
+
+                "Ammo_40mm_HE",
+                "Ammo_40mm_BHE",
+                "CPBAmmo_RPG7",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- End_Of_CPB_Weapons_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Mass's_Many_Items_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Mass's_AmmoBox's -->
+
+	            "Ammo_12gaBB",
+                "MassAmmo_556x45_10Rnd",
+                "Ammo_408Chey",
+                "Ammo_338",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- [Remastered]_Arma_Weapon_Pack_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Ammo -->
+
+                "Ammo_50Cal",
+                "Ammo_12x7mm",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- _Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Ammo -->
+
+
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- _Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Ammo -->
+
+
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- _Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Ammo -->
+
+
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- _Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Ammo -->

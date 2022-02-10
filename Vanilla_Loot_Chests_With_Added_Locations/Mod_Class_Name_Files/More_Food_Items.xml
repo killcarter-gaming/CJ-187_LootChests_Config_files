@@ -1,0 +1,60 @@
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- More_Food_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Food_Items -->
+
+	            "DONFOOD_LARGEBAG_COOKIE1",
+	            "DONFOOD_CANDYBAR_KATKIT",
+	            "DONFOOD_CANDYBAR_ILKA_CARAMEL",
+	            "DONFOOD_CANDYBAR_ILKA_CHIPSAHOY",
+	            "DONFOOD_CANDYBAR_ILKA_IC",
+	            "DONFOOD_CANDYBAR_ILKA_DESSERT",
+	            "DONFOOD_CANDYBAR_ILKA_IUC",
+	            "DONFOOD_CANDYBAR_ILKA_NOISETTE",
+	            "DONFOOD_CANDYBAR_ILKA_OREO",
+	            "DONFOOD_CANDYBAR_ILKA_OREOWHITE",
+	            "DONFOOD_CANDYBAR_ILKA_PEANUTCARAMEL",
+	            "DONFOOD_CANDYBAR_ILKA_STRAWBERRY",
+	            "DONFOOD_CANDYBAR_ILKA_WAVES",
+	            "DONFOOD_CANDYBAR_ILKA_WHITE",
+	            "DONFOOD_BREAD",
+	            "DONFOOD_CEREALBREAD",
+	            "DONFOOD_BREAD2",
+	            "DONFOOD_BREAD3",
+	            "DONFOOD_BREAD4",
+	            "DONFOOD_BREAD5",
+	            "DONFOOD_BREADROLL1",
+	            "DONFOOD_BREADROLL2",
+	            "DONFOOD_BREADROLL3",
+	            "DONFOOD_BREADROLL4",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Drink_Items -->
+
+	            "DONDRINK_MULLEDWINE",
+	            "DONDRINK_JUICEPACK_CHERRY",
+	            "DONDRINK_JUICEPACK_APRICOT",
+	            "DONDRINK_JUICEPACK_CRANBERRY",
+	            "DONDRINK_JUICEPACK_GRAPE",
+	            "DONDRINK_JUICEPACK_MANGO"",
+	            "DONDRINK_JUICEPACK_CHOKEBERRY",
+	            "DONDRINK_MONOKOBOX_BLUE",
+	            "DONDRINK_SPORTBOTTLE_RED",
+	            "DONDRINK_SPORTBOTTLE_BLUE",
+	            "DONDRINK_SPORTBOTTLE_GREEN",
+	            "DONDRINK_SPORTBOTTLE_PINK",
+	            "DONDRINK_SPORTBOTTLE_YELLOW",
+	            "DONDRINK_HONEYBEAR",
+	            "DONDRINK_SlimSodaCan_Springwater",
+	            "DONDRINK_SlimSodaCan_CoconutWater",
+	            "DONDRINK_SlimSodaCan_ForestBerryTea",
+	            "DONDRINK_SlimSodaCan_MelloYello",
+	            "DONDRINK_SlimSodaCan_Monoko",
+	            "DONDRINK_SlimSodaCan_KVASS",
+	            "DONDRINK_SlimSodaCan_NOTACOLA",
+	            "DONDRINK_SlimSodaCan_PIPSI",
+	            "DONDRINK_SlimSodaCan_SPITE",
+	            "DONFOOD_TEABOX_INDIAN",
+	            "DONFOOD_ALFOODBAG_NANDN_PEANUT",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->

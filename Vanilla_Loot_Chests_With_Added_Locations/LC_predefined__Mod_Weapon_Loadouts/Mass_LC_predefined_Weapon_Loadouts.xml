@@ -1,0 +1,222 @@
+    {
+      "defname": "LC_predefined_MassKivaari",
+      "weapon": "MassKivaari",
+      "magazine": "kivaarimag",
+      "attachments": [
+        "MassSuppressor308"
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Massm300",
+      "weapon": "Massm300",
+      "magazine": "Massm300mag",
+      "attachments": [
+        "MassSuppressor308"
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Massarmsan",
+      "weapon": "Massarmsan",
+      "magazine": "",
+      "attachments": [
+        "shotgunSuppressor"
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MassB52",
+      "weapon": "MassB52",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MassScout556",
+      "weapon": "MassScout556",
+      "magazine": "Scout556mag",
+      "attachments": [
+        "MassScoutSuppressor"
+      ],
+      "optic": "MassScoutLRS",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MassSVT40",
+      "weapon": "MassSVT40",
+      "magazine": "MassSVTmag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassSVT40_Black",
+      "weapon": "MassSVT40_Black",
+      "magazine": "MassSVTmag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassSVT40_Green",
+      "weapon": "MassSVT40_Green",
+      "magazine": "MassSVTmag",
+      "attachments": [
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassSVT40_Camo",
+      "weapon": "MassSVT40_Camo",
+      "magazine": "MassSVTmag",
+      "attachments": [
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassPPSH41",
+      "weapon": "MassPPSH41",
+      "magazine": "Massppshdrum",
+      "attachments": [
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassPPSH41_Black",
+      "weapon": "MassPPSH41_Black",
+      "magazine": "Massppshbox",
+      "attachments": [
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassPPSH41_Green",
+      "weapon": "MassPPSH41_Green",
+      "magazine": "Massppshdrum",
+      "attachments": [
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassPPSH41_Camo",
+      "weapon": "MassPPSH41_Camo",
+      "magazine": "Massppshbox",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Massm300_camo",
+      "weapon": "Massm300_camo",
+      "magazine": "Massm300mag",
+      "attachments": [
+        "MassSuppressor308"
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassPpskn",
+      "weapon": "MassPpskn",
+      "magazine": "Massppshbox",
+      "attachments": [
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassM110",
+      "weapon": "MassM110",
+      "magazine": "Mass308STANAG",
+      "attachments": [
+        "MassSuppressor308"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassAR15",
+      "weapon": "MassAR15",
+      "magazine": "Mass762Stanag",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Massmini14",
+      "weapon": "Massmini14",
+      "magazine": "Mass762Stanag",
+      "attachments": [
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Massm24",
+      "weapon": "Massm24",
+      "magazine": "Mass338M24Mag",
+      "attachments": [
+        "MassMuzzle338"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassAR15DMR",
+      "weapon": "MassAR15DMR",
+      "magazine": "Mass762Stanag",
+      "attachments": [
+        "MassStockSupport",
+        "MassAR15AdjBttstck"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassG18",
+      "weapon": "MassG18",
+      "magazine": "MassG18Mag",
+      "attachments": [
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MassG18_Green",
+      "weapon": "MassG18_Green",
+      "magazine": "MassG18Mag",
+      "attachments": [
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Mass357M1911",
+      "weapon": "Mass357M1911",
+      "magazine": "Mass357M1911Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },

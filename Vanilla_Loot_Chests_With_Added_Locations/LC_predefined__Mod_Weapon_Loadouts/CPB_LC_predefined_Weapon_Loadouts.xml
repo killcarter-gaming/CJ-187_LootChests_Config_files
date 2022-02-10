@@ -1,0 +1,383 @@
+    {
+      "defname": "LC_predefined_Barret",
+      "weapon": "Barret",
+      "magazine": "Barret_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Barret_Tan",
+      "weapon": "Barret_Tan",
+      "magazine": "Barret_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Barret_Green",
+      "weapon": "Barret_Green",
+      "magazine": "Barret_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Barret_Gold",
+      "weapon": "Barret_Gold",
+      "magazine": "Barret_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_M300_GreenDig",
+      "weapon": "M300_GreenDig",
+      "magazine": "m200_Magazine",
+      "attachments": [
+	    ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_HK416D_Black",
+      "weapon": "HK416D_Black",
+      "magazine": "Polymer_60rnd_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_SR25_Black",
+      "weapon": "SR25_Black",
+      "magazine": "SR25_Magazine",
+      "attachments": [
+        "SR25_Suppressor"
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_SR25_Green",
+      "weapon": "SR25_Green",
+      "magazine": "SR25_Magazine",
+      "attachments": [
+        "SR25_Suppressor"
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_SR25_Tan",
+      "weapon": "SR25_Tan",
+      "magazine": "SR25_Magazine",
+      "attachments": [
+        "SR25_Suppressor"
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_M447",
+      "weapon": "M447",
+      "magazine": "Mag_AKM_30Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Thompson",
+      "weapon": "Thompson",
+      "magazine": "Thompson_DrumMag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_M14_EFT",
+      "weapon": "M14_EFT",
+      "magazine": "M14_Magazine_dual",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPBVSS",
+      "weapon": "CPBVSS",
+      "magazine": "Mag_VSS_10Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "PSO1Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_KDMR_Worn",
+      "weapon": "KDMR_Worn",
+      "magazine": "KDMR_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_KDMR_Camo",
+      "weapon": "KDMR_Camo",
+      "magazine": "KDMR_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Val",
+      "weapon": "Val",
+      "magazine": "Asval_Magazine_Dual",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_DDM4V5",
+      "weapon": "DDM4V5",
+      "magazine": "DDM4V5_Magazine",
+      "attachments": [
+        "BSuppressor"
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Glock41",
+      "weapon": "Glock41",
+      "magazine": "Glock41_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MCRCARB_Black",
+      "weapon": "MCRCARB_Black",
+      "magazine": "Steel_100rnd_Magazine",
+      "attachments": [
+        "ETATH_Black"
+      ],
+      "optic": "HurricaneSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MCRCARB_Tan",
+      "weapon": "MCRCARB_Tan",
+      "magazine": "Steel_100rnd_Magazine",
+      "attachments": [
+        "ETATH_Black"
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MCRCQC_Black",
+      "weapon": "MCRCQC_Black",
+      "magazine": "Steel_100rnd_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "T1",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MCRSAW_Black",
+      "weapon": "MCRSAW_Black",
+      "magazine": "Steel_100rnd_Magazine",
+      "attachments": [
+        "ETATH_Black"
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_TX15_Black",
+      "weapon": "TX15_Black",
+      "magazine": "Steel_100rnd_Magazine",
+      "attachments": [
+        "ETATH_Black"
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_SA58",
+      "weapon": "SA58",
+      "magazine": "SA58_Drum_Magazine",
+      "attachments": [
+        "VerticalGrip_Black",
+		"BSuppressor"
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_R700",
+      "weapon": "R700",
+      "magazine": "R700_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPBHK417_Black",
+      "weapon": "CPBHK417_Black",
+      "magazine": "CPBHK417_20rnd_Magazine",
+      "attachments": [
+        "HKE1_Black",
+		"PGEN3_Black"
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPBHK417_Tan",
+      "weapon": "CPBHK417_Tan",
+      "magazine": "CPBHK417_20rnd_Magazine",
+      "attachments": [
+        "HKE1_Black",
+		"PGEN3_Black"
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPBRPG7",
+      "weapon": "CPBRPG7",
+      "magazine": "CPBAmmo_RPG7",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_M79",
+      "weapon": "M79",
+      "magazine": "Mag_M32_6Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPBNOV_Black",
+      "weapon": "CPBNOV_Black",
+      "magazine": "CPBNOV_20rnd_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPBNadeLauncher",
+      "weapon": "CPBNadeLauncher",
+      "magazine": "Ammo_40mm_BHE",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_AK12_PA",
+      "weapon": "AK12_PA",
+      "magazine": "ASH12_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_RPK16_Black",
+      "weapon": "RPK16_Black",
+      "magazine": "RPK16_DrumMagazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_RPK16_Green",
+      "weapon": "RPK16_Green",
+      "magazine": "RPK16_DrumMagazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_RPK16_Tan",
+      "weapon": "RPK16_Tan",
+      "magazine": "RPK16_DrumMagazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MP7A1_Black",
+      "weapon": "MP7A1_Black",
+      "magazine": "MP7_DrumMagazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MP9_Black",
+      "weapon": "MP9_Black",
+      "magazine": "MP9_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_FD338",
+      "weapon": "FD338",
+      "magazine": "FD338_Mag",
+      "attachments": [
+        "BSuppressor"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },

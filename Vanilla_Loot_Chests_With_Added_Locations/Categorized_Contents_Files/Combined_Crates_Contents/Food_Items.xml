@@ -1,0 +1,207 @@
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Dayz_FOOD_DRINKS -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- BEVERAGES -->
+
+                "Canteen",
+                "SodaCan_Fronta",
+                "SodaCan_Kvass",
+                "SodaCan_Pipsi",
+                "SodaCan_Spite",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- FRUIT_VEG -->
+
+                "Potato",
+                "Plum",
+                "Pear",
+                "GreenBellPepper",
+                "Apple",
+                "Pumpkin",
+                "Tomato",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- CANNED_GOODS -->
+
+                "PowderedMilk",
+                "Rice",
+                "Sardines",
+                "BakedBeansCan",
+                "SpaghettiCan",
+                "TacticalBaconCan",
+                "TunaCan",
+                "BoxCerealCrunchin",
+                "BrisketSpread",
+                "Chips",
+                "SaltySticks",
+                "Zagorky",
+                "ZagorkyChocolate",
+                "ZagorkyPeanuts",
+                "Crackers",
+                "Honey",
+                "Marmalade",
+                "Pajka",
+                "Pate",
+                "PeachesCan",
+                "PorkCan",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- RAW_MEATS -->
+
+                "WolfSteakMeat",
+                "BearSteakMeat",
+                "PigSteakMeat",
+                "BoarSteakMeat",
+                "ChickenBreastMeat",
+                "GoatSteakMeat",
+                "CowSteakMeat",
+                "DeerSteakMeat",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Mass_ManyITEMS_OverHaul_Items -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- NBC_Clothing -->
+
+                "MassNBC_Bag",
+                "MassNBCbootsYellow",
+                "MassNBCglovesBlue",
+                "MassNBChoodYellow",
+                "MassNBCJacketYellow",
+                "MassNBCpantsYellow",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- MRE'S -->
+
+                "MassHeli_MRE9",
+                "MassHeli_MRE10",
+                "MassHeli_MRE4",
+                "MassMRE4",
+                "MassMRE9",
+                "MassMRE10",
+                "MassMREPoppySeedCakeW",
+                "MassMREPoppySeedCakeUW",
+                "MassMRETortillaUW",
+                "MassMRETortillaW",
+                "MassMRERationHeater",
+                "MassMRECrackersW",
+                "MassMRECrackersUW",
+                "MassMREBreadW",
+                "MassMREBreadUW",
+                "MassMREPB",
+                "MassMREJelly",
+                "MassMREGrapeJelly",
+                "MassMRETobasco",
+                "MassMREHotCheeseSpread",
+                "MassMREOatmealCookieW",
+                "MassMREOatmealCookieUW",
+                "MassMREGum",
+                "MassMREDBBCobblerW",
+                "MassMREMCBeefStewW",
+                "MassMREMCChilliMacW",
+                "MassMREMCSpaghettiW",
+                "MassMREMCSpaghetti",
+                "MassMREMCChilliMac",
+                "MassMREMCBeefStew",
+                "MassMREDBBCobbler",
+                "MassPKA",
+                "MassMREDBBPuddingW",
+                "MassMREDBBPudding",
+                "MassMREMCBeefTaco",
+                "MassMREMCBeefTacoW",
+
+                "MassGoatStew",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Expansion_Items -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- CONSUMABLES TYPES -->
+
+                "ExpansionMilkBottle",
+
+                "ExpansionBread1",
+                "ExpansionBread2",
+                "ExpansionBread3",
+
+                "ExpansionCheese1",
+                "ExpansionCheese2",
+                "ExpansionCheese3",
+                "ExpansionCheese4",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- More_Food_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Food_Items -->
+
+	            "DONFOOD_LARGEBAG_COOKIE1",
+	            "DONFOOD_CANDYBAR_KATKIT",
+	            "DONFOOD_CANDYBAR_ILKA_CARAMEL",
+	            "DONFOOD_CANDYBAR_ILKA_CHIPSAHOY",
+	            "DONFOOD_CANDYBAR_ILKA_IC",
+	            "DONFOOD_CANDYBAR_ILKA_DESSERT",
+	            "DONFOOD_CANDYBAR_ILKA_IUC",
+	            "DONFOOD_CANDYBAR_ILKA_NOISETTE",
+                "DONFOOD_CANDYBAR_ILKA_OREO",
+                "DONFOOD_CANDYBAR_ILKA_OREOWHITE",
+                "DONFOOD_CANDYBAR_ILKA_PEANUTCARAMEL",
+                "DONFOOD_CANDYBAR_ILKA_STRAWBERRY",
+                "DONFOOD_CANDYBAR_ILKA_WAVES",
+                "DONFOOD_CANDYBAR_ILKA_WHITE",
+                "DONFOOD_BREAD",
+                "DONFOOD_CEREALBREAD",
+                "DONFOOD_BREAD2",
+                "DONFOOD_BREAD3",
+                "DONFOOD_BREAD4",
+                "DONFOOD_BREAD5",
+                "DONFOOD_BREADROLL1",
+                "DONFOOD_BREADROLL2",
+                "DONFOOD_BREADROLL3",
+                "DONFOOD_BREADROLL4",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Drink_Items -->
+
+                "DONDRINK_MULLEDWINE",
+                "DONDRINK_JUICEPACK_CHERRY",
+                "DONDRINK_JUICEPACK_APRICOT",
+                "DONDRINK_JUICEPACK_CRANBERRY",
+                "DONDRINK_JUICEPACK_GRAPE",
+                "DONDRINK_JUICEPACK_MANGO",
+                "DONDRINK_JUICEPACK_CHOKEBERRY",
+                "DONDRINK_MONOKOBOX_BLUE",
+                "DONDRINK_SPORTBOTTLE_RED",
+                "DONDRINK_SPORTBOTTLE_BLUE",
+                "DONDRINK_SPORTBOTTLE_GREEN",
+                "DONDRINK_SPORTBOTTLE_PINK",
+                "DONDRINK_SPORTBOTTLE_YELLOW",
+                "DONDRINK_HONEYBEAR",
+                "DONDRINK_SlimSodaCan_Springwater",
+                "DONDRINK_SlimSodaCan_CoconutWater",
+                "DONDRINK_SlimSodaCan_ForestBerryTea",
+                "DONDRINK_SlimSodaCan_MelloYello",
+                "DONDRINK_SlimSodaCan_Monoko",
+                "DONDRINK_SlimSodaCan_KVASS",
+                "DONDRINK_SlimSodaCan_NOTACOLA",
+                "DONDRINK_SlimSodaCan_PIPSI",
+                "DONDRINK_SlimSodaCan_SPITE",
+
+                "DONFOOD_TEABOX_INDIAN",
+                "DONFOOD_ALFOODBAG_NANDN_PEANUT",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Better_Drinks_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Beverages -->
+
+                "ALC_Malibu",
+                "ALC_Jack_Daniels",
+                "ALC_Smirnoff",
+                "ALC_Glengoyne",
+                "ALC_Kronenbourg",
+                "ALC_Bacardi",
+                "ALC_Finlandia",
+                "ALC_Red_Label",
+                "ALC_WhiteClaw_Natural",
+                "ALC_WhiteClaw_BackCherry",
+                "ALC_WhiteClaw_RubyGrapeFruit",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->

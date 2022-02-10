@@ -1,0 +1,471 @@
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Dayz_Game_Contents -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Tents -->
+
+                "CarTent",
+                "LargeTent",
+                "MediumTent",
+                "MediumTent_Green",
+                "MediumTent_Orange",
+                "PartyTent",
+                "PartyTent_Blue",
+                "PartyTent_Brown",
+                "PartyTent_Lunapark",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- NAILS_TOOLS -->
+
+                "Matchbox",
+                "PetrolLighter",
+                "Lockpick",
+                "Heatpack",
+                "Battery9V",
+                "BarbedWire",
+                "Whetstone",
+                "DuctTape",
+                "SewingKit",
+                "LeatherSewingKit",
+                "Roadflare",
+                "Rope",
+                "NailBox",
+                "Wrench",
+                "Pliers",
+                "Screwdriver",
+                "Hammer",
+                "HandSaw",
+                "Hatchet",
+                "Shovel",
+                "Pickaxe",
+                "Crowbar",
+                "SledgeHammer",
+                "WoodAxe",
+                "FirefighterAxe",
+                "GardenLime",
+                "WeaponCleaningKit",
+
+	            "BBP_Land_Claim_FlagKit",
+                "TerritoryFlagKit",
+
+
+                "DuctTape",
+                "DuctTape",
+                "DuctTape",
+                "DuctTape",
+                "DuctTape",
+                "DuctTape",
+                "DuctTape",
+                "DuctTape",
+                "DuctTape",
+                "DuctTape",
+
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Gas_Masks -->
+
+                "AirborneMask",
+                "GP5GasMask",
+
+                "GasMask_Filter",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- NBC_Clothing -->
+
+                "NBCPantsGray",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- CJ-187Moreitems_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Tools -->
+
+                "Motorola",
+                "Motorola_2",
+                "Motorola_3",
+                "Motorola_4",
+                "Motorola_5",
+                "Falcon3_Radio",
+                "TacSatRadio",
+                "TacSatBattery",
+                "GardenLime_1",
+                "GardenLime_2",
+                "GardenLime_3",
+                "Battery9V_1",
+                "Battery9V_2",
+                "Battery9V_3",
+                "Battery9V_4",
+                "Pliers_Red",
+                "Pliers_Yellow",
+                "Sparkplug_Box_1",
+                "Sparkplug_Box_2",
+                "VanishSpray",
+                "ToolsRepairKit",
+                "Screwdriver_2",
+                "WD40",
+                "PetrolLighter",
+                "GardenLime_4",
+                "WalkieTalkie",
+                "WD40_2",
+                "ButaneCanister",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- EXPANSION_ITEMS -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Safes -->
+
+	            "ExpansionSafeLarge",
+	            "ExpansionSafeMini",
+	            "ExpansionSafeMedium",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Tents -->
+
+	            "ExpansionCamoBox",
+	            "ExpansionATent",
+	            "ExpansionCamoTent",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Gun_Rack -->
+
+	            "ExpansionGunrack",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Code Lock -->
+
+                "ExpansionCodeLock",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Raid_Tools -->
+
+                "ExpansionBoltCutters",
+                "ExpansionPropaneTorch",
+                "ExpansionToolBox",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- SPRAY CAN CAMOS -->
+
+                "ExpansionSpraycanWeeb",
+                "ExpansionSpraycanDahoman",
+                "ExpansionSpraycanIon",
+                "ExpansionSpraycanPresident",
+                "ExpansionSpraycanVrana",
+                "ExpansionSpraycanWave",
+                "ExpansionSpraycanCivilian",
+                "ExpansionSpraycanMedical",
+                "ExpansionSpraycanUber",
+                "ExpansionSpraycanBlueline",
+                "ExpansionSpraycanDigital",
+                "ExpansionSpraycanElliptical",
+                "ExpansionSpraycanFurious",
+                "ExpansionSpraycanGrayWatcher",
+                "ExpansionSpraycanJeans",
+                "ExpansionSpraycanShadow",
+                "ExpansionSpraycanSpeedy",
+                "ExpansionSpraycanSunset",
+                "ExpansionSpraycanWasp",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- SPRAY CANS -->
+
+                "ExpansionSpraycanGreen",
+                "ExpansionSpraycanBlue",
+                "ExpansionSpraycanWhite",
+                "ExpansionSpraycanRed",
+                "ExpansionSpraycanBlack",
+                "ExpansionSpraycanGrey",
+                "ExpansionSpraycanWine",
+                "ExpansionSpraycanYellow",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- BASE_BUILDING_Kits -->	
+
+                "ExpansionFloorKit",
+                "ExpansionWoodPillarKit",	
+                "ExpansionRampKit",
+                "ExpansionStairKit",
+                "ExpansionWallKit",
+                "ExpansionCamoBoxKit",
+                "ExpansionBarrierGateKit",
+                "ExpansionCamoTentKit",
+                "ExpansionBarbedWireKit",
+	            "ExpansionHescoKit",
+                "ExpansionHelipadKit",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Stove -->
+
+                "ExpansionStove",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Mass_ManyITEMS_OverHaul_Items -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- NBC_Clothing -->
+
+	            "MassNBC_Bag",
+	            "MassNBCpantsYellow",
+	            "MassNBCbootsYellow",
+	            "MassNBChoodYellow",
+	            "MassNBCpantsYellow",
+                "MassNBCJacketYellow",
+
+	            "MassNBCglovesBlue",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Medical_Bags -->
+
+	            "MassMedical_Bag",
+	            "MassMedical_Bag_Blue",
+	            "MassMedical_Bag_Green",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- BaseBuildingPlus -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Building_Kits -->
+
+                "BBP_Land_Claim_FlagKit",
+
+                "BBP_T1_FoundationKit",
+                "BBP_T2_FoundationKit",
+                "BBP_T3_FoundationKit",
+
+                "BBP_T1_WallKit",
+                "BBP_T2_WallKit",
+                "BBP_T3_WallKit",
+
+                "BBP_T1_Wall_HalfKit",
+                "BBP_T2_Wall_HalfKit",
+                "BBP_T3_Wall_HalfKit",
+
+                "BBP_T1_WindowKit",
+                "BBP_T2_WindowKit",
+                "BBP_T3_WindowKit",
+
+                "BBP_T3_Door_HalfKit",
+
+                "BBP_T1_DoorKit",
+                "BBP_T2_DoorKit",
+                "BBP_T3_DoorKit",
+
+                "BBP_T1_GateKit",
+                "BBP_T2_GateKit",
+                "BBP_T3_GateKit",
+
+                "BBP_T1_RoofKit",
+                "BBP_T2_RoofKit",
+                "BBP_T3_RoofKit",
+
+                "BBP_T1_FloorKit",
+                "BBP_T2_FloorKit",
+                "BBP_T3_FloorKit",
+
+                "BBP_T1_Floor_HatchKit",
+                "BBP_T3_Floor_HatchKit",
+
+                "BBP_T1_StairKit",
+                "BBP_T2_StairKit",
+                "BBP_T3_StairKit",
+
+                "BBP_T1_RampKit",
+                "BBP_T1_Ramp_WideKit",
+
+                "BBP_PillarKit",
+
+                "BBP_T1_Roof_HatchKit",
+                "BBP_T2_Roof_HatchKit",
+                "BBP_T3_Roof_HatchKit",
+
+                "BBP_BedKit",
+
+                "BBP_SofaKit",
+
+                "BBP_Dance_FloorKit",
+
+                "BBP_WellKit",
+
+                "BBP_Solar_PanelKit",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Concrete_Components -->
+
+                "BBP_Cement",
+                "BBP_Concrete_Brick_Pile",
+                "BBP_Mortar_Mix",
+                "BBP_Plaster",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Cement_Mixer -->
+
+                "BBP_Cement_Mixer",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Workbench_Components -->
+
+                "BBP_Tape_Measure",
+                "BBP_Blueprint",
+                "BBP_Workbench",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Base_Parts -->
+
+                "BBP_Wheelbarrow",
+                "BBP_Bucket",
+                "BBP_Bedding",
+                "BBP_Step_Ladder",
+                "BBP_Carpet",
+                "BBP_Wallpaper",
+                "BBP_Old_Lamp",
+                "BBP_Floor_Lamp",
+                "BBP_Xmas_Tree",
+                "BBP_Sun_Shade",
+                "BBP_Painting_1",
+                "BBP_Painting_2",
+                "BBP_Golf",
+                "BBP_Gang_Plug",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Breaching_Charge__Items -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Breaching_Charges -->
+
+	            "HDSN_BreachingChargeHeavy",
+	            "HDSN_BreachingCharge",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Breaching_Charge_Components -->
+
+	            "HDSN_C4NoWiring",
+	            "HDSN_C4Sticks",
+	            "HDSN_Explosive",
+	            "HDSN_Detonator",
+	            "HDSN_Gunpowder",
+	            "HDSN_Charcoal",
+                "HDSN_Sulfur",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Breaching_Charge_FINISHED -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- CodeLock_Mod -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- CodeLocks -->
+
+	            "CodeLock",
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- AMMO_MAKING_MOD_Items -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Explosive Ingredients -->
+
+                "Gunpowder",
+                "Sulfur20LbBag",
+                "Potassium_Nitrate",
+                "Potassium_Nitrate_Charcoal",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- TIPS_CASINGS -->
+
+                "Tips545x39",
+                "Casing545x39",
+                "Prep545x39",
+                "Tips556x45",
+                "Casing556x45",
+                "Prep556x45",
+                "Tips762x39",
+                "Casing762x39",
+                "Prep762x39",
+                "Tips308Win",
+                "Casing308Win",
+                "Prep308Win",
+                "Tips762x54",
+                "Casing762x54",
+                "Prep762x54",
+                "Tips9x39",
+                "Casing9x39",
+                "Prep9x39",
+                "Tips45ACP",
+                "Casing45ACP",
+                "Prep45ACP",
+                "Tips9X19",
+                "Casing9X19",
+                "Prep9X19",
+                "Tips22LR",
+                "Tips357",
+                "Casing357",
+                "Prep357Magnum",
+                "Casing22LR",
+                "Prep22LR",
+                "Tips380ACP",
+                "Casing380ACP",
+                "Prep380ACP",
+                "TipsSlug",
+                "CasingSlug",
+                "PrepSlug",
+                "TipsBuckshot",
+                "CasingBuckshot",
+                "PrepBuckshot",
+                "TipsRubber45ACP",
+                "PrepRubber45ACP",
+                "TipsRubber9X19",
+                "PrepRubber9X19",
+                "TipsRubber380ACP",
+                "PrepRubber380ACP",
+                "RubberBox_380ACP",
+                "RubberBox_45ACP",
+                "RubberBox_9x19",
+                "Ammo_45ACPRubber",
+                "Ammo_9x19Rubber",
+                "Ammo_380Rubber",
+                "ScrapRubber",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- AMMO_WORK_BENCH_PARTS -->
+
+                "AmmoWorkbenchlegs",
+                "AmmoWorkbenchEmpty",
+                "AmmoWorkbenchScale",
+                "AmmoWorkbenchFunnel",
+                "AmmoWorkbenchScaleFunnel",
+                "AmmoWorkbenchPressFunnel",
+                "PressWdie",
+                "EmptyCrucible",
+                "PressWdieWattachmentplate",
+                "Presswdiemechismhandle",
+                "PresswithAttachmentplate",
+                "PresswithMechanism",
+                "PresswithMechanismhandle",
+                "StandAloneSmelter",
+                "PressCasingholder",
+                "PressBody",
+                "PressMountPlate",
+                "PressHandle",
+                "PressMechanism",
+                "PressMechaismhandle",
+                "Scale",
+                "Funnel",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- AMMO_WORK_BENCH_MOLDS -->
+
+                "StrongRifleCasingMold",
+                "StrongRifleTipsMold",
+                "StrongPistolCasingMold",
+                "StrongPistolTipsMold",
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- AMMO_WORK_BENCH_MOD_FINISHED -->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->

@@ -1,0 +1,252 @@
+    {
+      "defname": "LC_predefined_A2M14_DMR",
+      "weapon": "A2M14_DMR",
+      "magazine": "A2M14_DMRMAG",
+      "attachments": [
+        ""
+      ],
+      "optic": "DMRScope",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_A2WM110_black",
+      "weapon": "A2WM110_black",
+      "magazine": "A2WM110_mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2M16A4",
+      "weapon": "A2M16A4",
+      "magazine": "Mag_STANAG_30Rnd",
+      "attachments": [
+        "M4_Suppressor"
+      ],
+      "optic": "ReflexOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_A2AS50",
+      "weapon": "A2AS50",
+      "magazine": "A2AS50_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2G36_C",
+      "weapon": "A2G36_C",
+      "magazine": "Mag_CMAG_30Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "ReflexOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_A2M240",
+      "weapon": "A2M240",
+      "magazine": "m240_magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "PUScopeOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2MK48",
+      "weapon": "A2MK48",
+      "magazine": "A2MK48_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2M107",
+      "weapon": "A2M107",
+      "magazine": "A2M107_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "PSO11Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_A2M40A3",
+      "weapon": "A2M40A3",
+      "magazine": "A2M40A3_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2AA12",
+      "weapon": "A2AA12",
+      "magazine": "A2AA12_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2M249",
+      "weapon": "A2M249",
+      "magazine": "A2M249_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2PKM",
+      "weapon": "A2PKM",
+      "magazine": "A2PKM_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2M9",
+      "weapon": "A2M9",
+      "magazine": "A2M9_Magazine",
+      "attachments": [
+        "A2Suppressor"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2LRRAWM",
+      "weapon": "A2LRRAWM",
+      "magazine": "A2LRRAWM_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "LrrScope",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_A2M60E4",
+      "weapon": "A2M60E4",
+      "magazine": "A2M60E4_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2MicroUzi",
+      "weapon": "A2MicroUzi",
+      "magazine": "A2UZI_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2MicroUziSD",
+      "weapon": "A2MicroUziSD",
+      "magazine": "A2UZI_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2FNFAL",
+      "weapon": "A2FNFAL",
+      "magazine": "A2FNFAL_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2M4SPR",
+      "weapon": "A2M4SPR",
+      "magazine": "A2M4SPR_Magazine",
+      "attachments": [
+        "M4_Suppressor"
+      ],
+      "optic": "A2M4SPRScope",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_A2Glock17",
+      "weapon": "A2Glock17",
+      "magazine": "A2Glock17_Magazine",
+      "attachments": [
+        "PistolSuppressor",
+        "TLRLight"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2Colt1911",
+      "weapon": "A2Colt1911",
+      "magazine": "A2Colt1911_Magazine",
+      "attachments": [
+        "PistolSuppressor",
+        "TLRLight"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2KSVK",
+      "weapon": "A2KSVK",
+      "magazine": "A2KSVK_Magazine",
+      "attachments": [
+        "AK_Suppressor"
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_A2mk17_s",
+      "weapon": "A2mk17_s",
+      "magazine": "A2mk17_mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_A2mk17",
+      "weapon": "A2mk17",
+      "magazine": "A2mk17_mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_A2WM110_black",
+      "weapon": "A2WM110_black",
+      "magazine": "A2WM110_mag",
+      "attachments": [
+        "
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },

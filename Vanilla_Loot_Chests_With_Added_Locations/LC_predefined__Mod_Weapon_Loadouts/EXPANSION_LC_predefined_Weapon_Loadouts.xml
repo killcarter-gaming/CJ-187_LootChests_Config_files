@@ -1,0 +1,165 @@
+    {
+      "defname": "LC_predefined_Expansion_M79",
+      "weapon": "Expansion_M79",
+      "magazine": "Ammo_Expansion_M203_HE",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Expansion_M9",
+      "weapon": "Expansion_M9",
+      "magazine": "Mag_Expansion_M9_15Rnd",
+      "attachments": [
+        "TLRLight",
+		"PistolSuppressor"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Expansion_Longhorn",
+      "weapon": "Expansion_Longhorn",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "PistolOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Expansion_MP5",
+      "weapon": "Expansion_MP5",
+      "magazine": "Mag_MP5_30Rnd",
+      "attachments": [
+        "PistolSuppressor"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Expansion_G36",
+      "weapon": "Expansion_G36",
+      "magazine": "Mag_Expansion_G36_30Rnd",
+      "attachments": [
+        "UniversalLight",
+        "M4Suppressor"
+      ],
+      "optic": "ExpansionReflexMRSOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Expansion_M16",
+      "weapon": "Expansion_M16",
+      "magazine": "Mag_STANAGCoupled_30Rnd",
+      "attachments": [
+        "UniversalLight".
+		"M4Suppressor"
+      ],
+      "optic": "ExpansionHAMROptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Expansion_M1A",
+      "weapon": "Expansion_M1A",
+      "magazine": "Mag_Expansion_M1A_20Rnd",
+      "attachments": [
+        "M4Suppressor",
+		"Expansion_M1A_RailAtt"
+      ],
+      "optic": "M4_T3NRDSOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Expansion_M14",
+      "weapon": "Expansion_M14",
+      "magazine": "Mag_Expansion_M1A_20Rnd",
+      "attachments": [
+        "Expansion_M1A_RailAtt"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_ExpansionRPG7",
+      "weapon": "ExpansionRPG7",
+      "magazine": "ExpansionAmmoRPG",
+      "attachments": [
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Expansion_BenelliM4",
+      "weapon": "Expansion_BenelliM4",
+      "magazine": "Mag_AK101_30Rnd",
+      "attachments": [
+        "UniversalLight"
+      ],
+      "optic": "ExpansionReflexMRSOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Expansion_MPX",
+      "weapon": "Expansion_MPX",
+      "magazine": "Mag_MPX_50Rnd",
+      "attachments": [
+        "PistolSuppressor"
+      ],
+      "optic": "ExpansionHAMROptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Expansion_MP7",
+      "weapon": "Expansion_MP7",
+      "magazine": "Mag_MP7_40Rnd",
+      "attachments": [
+        "UniversalLight",
+		"PistolSuppressor"
+      ],
+      "optic": "M4_T3NRDSOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Expansion_Kedr",
+      "weapon": "Expansion_Kedr",
+      "magazine": "Mag_Kedr_20Rnd",
+      "attachments": [
+        "PistolSuppressor"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Expansion_VityazSN",
+      "weapon": "Expansion_VityazSN",
+      "magazine": "Mag_Expansion_Vityaz_30Rnd",
+      "attachments": [
+        "PistolSuppressor",
+		"AKS74U_Bttstck",
+		"AK_RailHndgrd"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Expansion_AWM",
+      "weapon": "Expansion_AWM",
+      "magazine": "Mag_Expansion_AWM_5Rnd",
+      "attachments": [
+      ],
+      "optic": "Expansion_PMII25Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Expansion_LAW",
+      "weapon": "Expansion_LAW",
+      "magazine": "ExpansionAmmoLAW",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
