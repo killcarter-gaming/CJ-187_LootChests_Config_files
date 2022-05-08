@@ -66,25 +66,13 @@
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- Attachments -->
 
-                "BSuppressor",
-                "MP9Suppressor",
-                "SR25_Suppressor",
-                "CPBACOG_RMR",
-                "BMD_Compensator",
-                "pbssuppressor",
-                "SVDBipod_Black",
-                "HoloSight",
-                "HurricaneSight",
-                "T1",
-                "M14Rail",
-                "ASVALRail",
-                "Asgrip1",
-                "VerticalGrip_Black",
-                "Bipod_Black,",
-                "PGEN3_Black",
-                "HKE1_Black",
-                "ETATH_Black",
-                "spectreds",
+                "CPB_X300Flashlight",
+                "CPB_VerticalGrip_Black",
+                "CPB_Bipod_Black",
+                "CPB_BMD_Compensator",
+                "CPB_M200Suppressor",
+                "CPB_SR25_Suppressor",
+                "CPB_MP9Suppressor",
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->

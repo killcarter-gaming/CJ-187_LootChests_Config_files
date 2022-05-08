@@ -1364,6 +1364,20 @@
         "Ammo_Expansion_M203_HE",
         "ExpansionAmmoRPG",
         "ExpansionAmmoLAW",
+        "Ammo_Flare",
+        "Ammo_FlareRed",
+        "Ammo_FlareGreen",
+        "Ammo_FlareBlue",
+        "CPB_AmmoBox_46x30_30rnd",
+        "CPB_Ammo_new_46x30",
+        "CPB_AmmoBox_127x55",
+        "CPB_Ammo_127x55",
+        "CPB_AmmoBox_50Cal",
+        "CPB_Ammo_50Cal",
+        "CPB_AmmoBox_338_20rnd",
+        "CPB_Ammo_338",
+        "CPB_AmmoBox_408Chey",
+        "CPB_Ammo_408",
         "Ammo_40mm_HE",
         "Ammo_40mm_BHE",
         "Ammo_40mm_Color_White",
@@ -1371,17 +1385,6 @@
         "Ammo_40mm_Color_Yellow",
         "Ammo_40mm_Color_Green",
         "Ammo_40mm_Color_Purple",
-        "Ammo_Flare",
-        "Ammo_FlareRed",
-        "Ammo_FlareGreen",
-        "Ammo_FlareBlue",
-        "Ammo_12x7mm",
-        "CPBAmmo_RPG7",
-        "AmmoBox_408Chey",
-        "Ammo_new_46x30",
-        "AmmoBox_new_46x30",
-        "Ammo_50Cal",
-        "AmmoBox_50Cal",
         "M67Grenade",
         "RGD5Grenade",
         "ExpansionSatchel",
@@ -1478,6 +1481,20 @@
         "Ammo_Expansion_M203_HE",
         "ExpansionAmmoRPG",
         "ExpansionAmmoLAW",
+        "Ammo_Flare",
+        "Ammo_FlareRed",
+        "Ammo_FlareGreen",
+        "Ammo_FlareBlue",
+        "CPB_AmmoBox_46x30_30rnd",
+        "CPB_Ammo_new_46x30",
+        "CPB_AmmoBox_127x55",
+        "CPB_Ammo_127x55",
+        "CPB_AmmoBox_50Cal",
+        "CPB_Ammo_50Cal",
+        "CPB_AmmoBox_338_20rnd",
+        "CPB_Ammo_338",
+        "CPB_AmmoBox_408Chey",
+        "CPB_Ammo_408",
         "Ammo_40mm_HE",
         "Ammo_40mm_BHE",
         "Ammo_40mm_Color_White",
@@ -1485,17 +1502,6 @@
         "Ammo_40mm_Color_Yellow",
         "Ammo_40mm_Color_Green",
         "Ammo_40mm_Color_Purple",
-        "Ammo_Flare",
-        "Ammo_FlareRed",
-        "Ammo_FlareGreen",
-        "Ammo_FlareBlue",
-        "Ammo_12x7mm",
-        "CPBAmmo_RPG7",
-        "AmmoBox_408Chey",
-        "Ammo_new_46x30",
-        "AmmoBox_new_46x30",
-        "Ammo_50Cal",
-        "AmmoBox_50Cal",
         "M67Grenade",
         "RGD5Grenade",
         "ExpansionSatchel",
@@ -2102,9 +2108,29 @@
       "opticbattery": 1
     },
     {
-      "defname": "LC_predefined_Barret",
-      "weapon": "Barret",
-      "magazine": "Barret_Magazine",
+      "defname": "LC_predefined_CPB_M79",
+      "weapon": "CPB_M79",
+      "magazine": "CPB_Ammo_40mm_HE",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_M32",
+      "weapon": "CPB_M32",
+      "magazine": "CPB_Mag_M32_6Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_R700",
+      "weapon": "CPB_R700",
+      "magazine": "CPB_R700_Magazine",
       "attachments": [
         ""
       ],
@@ -2112,9 +2138,9 @@
       "opticbattery": 0
     },
     {
-      "defname": "LC_predefined_Barret_Tan",
-      "weapon": "Barret_Tan",
-      "magazine": "Barret_Magazine",
+      "defname": "LC_predefined_CPB_M300_Black",
+      "weapon": "CPB_M300_Black",
+      "magazine": "CPB_M300_Magazine",
       "attachments": [
         ""
       ],
@@ -2122,9 +2148,9 @@
       "opticbattery": 0
     },
     {
-      "defname": "LC_predefined_Barret_Green",
-      "weapon": "Barret_Green",
-      "magazine": "Barret_Magazine",
+      "defname": "LC_predefined_CPB_M300_GreenDig",
+      "weapon": "CPB_M300_GreenDig",
+      "magazine": "CPB_M300_Magazine",
       "attachments": [
         ""
       ],
@@ -2132,9 +2158,9 @@
       "opticbattery": 0
     },
     {
-      "defname": "LC_predefined_Barret_Gold",
-      "weapon": "Barret_Gold",
-      "magazine": "Barret_Magazine",
+      "defname": "LC_predefined_CPB_M200_PA",
+      "weapon": "CPB_M200_PA",
+      "magazine": "CPB_M200_Magazine",
       "attachments": [
         ""
       ],
@@ -2142,9 +2168,9 @@
       "opticbattery": 0
     },
     {
-      "defname": "LC_predefined_M300_GreenDig",
-      "weapon": "M300_GreenDig",
-      "magazine": "m200_Magazine",
+      "defname": "LC_predefined_CPB_M200_Black",
+      "weapon": "CPB_M200_Black",
+      "magazine": "CPB_M200_Magazine",
       "attachments": [
         ""
       ],
@@ -2152,200 +2178,9 @@
       "opticbattery": 0
     },
     {
-      "defname": "LC_predefined_HK416D_Black",
-      "weapon": "HK416D_Black",
-      "magazine": "Polymer_60rnd_Magazine",
-      "attachments": [
-        ""
-      ],
-      "optic": "ACOGOptic",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_SR25_Black",
-      "weapon": "SR25_Black",
-      "magazine": "SR25_Magazine",
-      "attachments": [
-        "SR25_Suppressor"
-      ],
-      "optic": "ACOGOptic",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_SR25_Green",
-      "weapon": "SR25_Green",
-      "magazine": "SR25_Magazine",
-      "attachments": [
-        "SR25_Suppressor"
-      ],
-      "optic": "HoloSight",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_SR25_Tan",
-      "weapon": "SR25_Tan",
-      "magazine": "SR25_Magazine",
-      "attachments": [
-        "SR25_Suppressor"
-      ],
-      "optic": "HuntingOptic",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_M447",
-      "weapon": "M447",
-      "magazine": "Mag_AKM_30Rnd",
-      "attachments": [
-        ""
-      ],
-      "optic": "ACOGOptic",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_Thompson",
-      "weapon": "Thompson",
-      "magazine": "Thompson_DrumMag",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_M14_EFT",
-      "weapon": "M14_EFT",
-      "magazine": "M14_Magazine_dual",
-      "attachments": [
-        ""
-      ],
-      "optic": "ACOGOptic",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_CPBVSS",
-      "weapon": "CPBVSS",
-      "magazine": "Mag_VSS_10Rnd",
-      "attachments": [
-        ""
-      ],
-      "optic": "PSO1Optic",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_KDMR_Worn",
-      "weapon": "KDMR_Worn",
-      "magazine": "KDMR_Magazine",
-      "attachments": [
-        ""
-      ],
-      "optic": "ACOGOptic",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_KDMR_Camo",
-      "weapon": "KDMR_Camo",
-      "magazine": "KDMR_Magazine",
-      "attachments": [
-        ""
-      ],
-      "optic": "HoloSight",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_Val",
-      "weapon": "Val",
-      "magazine": "Asval_Magazine_Dual",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_DDM4V5",
-      "weapon": "DDM4V5",
-      "magazine": "DDM4V5_Magazine",
-      "attachments": [
-        "BSuppressor"
-      ],
-      "optic": "ACOGOptic",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_Glock41",
-      "weapon": "Glock41",
-      "magazine": "Glock41_Magazine",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_MCRCARB_Black",
-      "weapon": "MCRCARB_Black",
-      "magazine": "Steel_100rnd_Magazine",
-      "attachments": [
-        "ETATH_Black"
-      ],
-      "optic": "HurricaneSight",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_MCRCARB_Tan",
-      "weapon": "MCRCARB_Tan",
-      "magazine": "Steel_100rnd_Magazine",
-      "attachments": [
-        "ETATH_Black"
-      ],
-      "optic": "ACOGOptic",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_MCRCQC_Black",
-      "weapon": "MCRCQC_Black",
-      "magazine": "Steel_100rnd_Magazine",
-      "attachments": [
-        ""
-      ],
-      "optic": "T1",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_MCRSAW_Black",
-      "weapon": "MCRSAW_Black",
-      "magazine": "Steel_100rnd_Magazine",
-      "attachments": [
-        "ETATH_Black"
-      ],
-      "optic": "HoloSight",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_TX15_Black",
-      "weapon": "TX15_Black",
-      "magazine": "Steel_100rnd_Magazine",
-      "attachments": [
-        "ETATH_Black"
-      ],
-      "optic": "HoloSight",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_SA58",
-      "weapon": "SA58",
-      "magazine": "SA58_Drum_Magazine",
-      "attachments": [
-        "VerticalGrip_Black",
-        "BSuppressor"
-      ],
-      "optic": "ACOGOptic",
-      "opticbattery": 1
-    },
-    {
-      "defname": "LC_predefined_R700",
-      "weapon": "R700",
-      "magazine": "R700_Magazine",
+      "defname": "LC_predefined_CPB_M200_White",
+      "weapon": "CPB_M200_White",
+      "magazine": "CPB_M200_Magazine",
       "attachments": [
         ""
       ],
@@ -2353,101 +2188,59 @@
       "opticbattery": 0
     },
     {
-      "defname": "LC_predefined_CPBHK417_Black",
-      "weapon": "CPBHK417_Black",
-      "magazine": "CPBHK417_20rnd_Magazine",
+      "defname": "LC_predefined_CPB_NOV_Black",
+      "weapon": "CPB_NOV_Black",
+      "magazine": "CPB_NOV_20rnd_Magazine",
       "attachments": [
-        "HKE1_Black",
-        "PGEN3_Black"
+        ""
       ],
-      "optic": "HoloSight",
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_Barret_Gold",
+      "weapon": "CPB_Barret_Gold",
+      "magazine": "CPB_Barret_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_Barret_Tan",
+      "weapon": "CPB_Barret_Tan",
+      "magazine": "CPB_Barret_Magazine",
+      "attachments": [
+	    ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_Barret_Green",
+      "weapon": "CPB_Barret_Green",
+      "magazine": "CPB_Barret_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
       "opticbattery": 1
     },
     {
-      "defname": "LC_predefined_CPBHK417_Tan",
-      "weapon": "CPBHK417_Tan",
-      "magazine": "CPBHK417_20rnd_Magazine",
+      "defname": "LC_predefined_CPB_Barret",
+      "weapon": "CPB_Barret",
+      "magazine": "CPB_Barret_Magazine",
       "attachments": [
-        "HKE1_Black",
-        "PGEN3_Black"
+        ""
       ],
-      "optic": "HoloSight",
+      "optic": "ACOGOptic",
       "opticbattery": 1
     },
     {
-      "defname": "LC_predefined_CPBRPG7",
-      "weapon": "CPBRPG7",
-      "magazine": "CPBAmmo_RPG7",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_M79",
-      "weapon": "M79",
-      "magazine": "Mag_M32_6Rnd",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_CPBNOV_Black",
-      "weapon": "CPBNOV_Black",
-      "magazine": "CPBNOV_20rnd_Magazine",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_CPBNadeLauncher",
-      "weapon": "CPBNadeLauncher",
-      "magazine": "Ammo_40mm_BHE",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_AK12_PA",
-      "weapon": "AK12_PA",
-      "magazine": "ASH12_Magazine",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_RPK16_Black",
-      "weapon": "RPK16_Black",
-      "magazine": "RPK16_DrumMagazine",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_RPK16_Green",
-      "weapon": "RPK16_Green",
-      "magazine": "RPK16_DrumMagazine",
-      "attachments": [
-        ""
-      ],
-      "optic": "",
-      "opticbattery": 0
-    },
-    {
-      "defname": "LC_predefined_RPK16_Tan",
-      "weapon": "RPK16_Tan",
-      "magazine": "RPK16_DrumMagazine",
+      "defname": "LC_predefined_CPB_AX50_Black",
+      "weapon": "CPB_AX50_Black",
+      "magazine": "CPB_AX50_Magazine",
       "attachments": [
         ""
       ],
@@ -2455,9 +2248,29 @@
       "opticbattery": 1
     },
     {
-      "defname": "LC_predefined_MP7A1_Black",
-      "weapon": "MP7A1_Black",
-      "magazine": "MP7_DrumMagazine",
+      "defname": "LC_predefined_CPB_AX50_Tan",
+      "weapon": "CPB_AX50_Tan",
+      "magazine": "CPB_AX50_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_AWM_Black",
+      "weapon": "CPB_AWM_Black",
+      "magazine": "CPB_AWM_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_SR25_Tan",
+      "weapon": "CPB_SR25_Tan",
+      "magazine": "CPB_SR25_Magazine_Extendo",
       "attachments": [
         ""
       ],
@@ -2465,9 +2278,19 @@
       "opticbattery": 1
     },
     {
-      "defname": "LC_predefined_MP9_Black",
-      "weapon": "MP9_Black",
-      "magazine": "MP9_Magazine",
+      "defname": "LC_predefined_CPB_SR25_Green",
+      "weapon": "CPB_SR25_Green",
+      "magazine": "CPB_SR25_Magazine_Extendo",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_SR25_Black",
+      "weapon": "CPB_SR25_Black",
+      "magazine": "CPB_SR25_Magazine_Extendo",
       "attachments": [
         ""
       ],
@@ -2475,11 +2298,281 @@
       "opticbattery": 1
     },
     {
-      "defname": "LC_predefined_FD338",
-      "weapon": "FD338",
-      "magazine": "FD338_Mag",
+      "defname": "LC_predefined_CPB_SA58_Green",
+      "weapon": "CPB_SA58_Green",
+      "magazine": "CPB_SA58_Drum_Magazine",
       "attachments": [
-        "BSuppressor"
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_SA58_Black",
+      "weapon": "CPB_SA58_Black",
+      "magazine": "CPB_SA58_Drum_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_RPK16_Tan",
+      "weapon": "CPB_RPK16_Tan",
+      "magazine": "CPB_RPK16_DrumMagazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_RPK16_Green",
+      "weapon": "CPB_RPK16_Green",
+      "magazine": "CPB_RPK16_DrumMagazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_RPK16_Black",
+      "weapon": "CPB_RPK16_Black",
+      "magazine": "CPB_RPK16_DrumMagazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_MK14_EBR_Black",
+      "weapon": "CPB_MK14_EBR_Black",
+      "magazine": "CPB_M14_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_MK14_EBR",
+      "weapon": "CPB_MK14_EBR",
+      "magazine": "CPB_M14_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_MDRS_Black",
+      "weapon": "CPB_MDRS_Black",
+      "magazine": "Mag_CMAG_10Rd",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_M447",
+      "weapon": "CPB_M447",
+      "magazine": "Mag_AKM_30rd",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_M134_Black",
+      "weapon": "CPB_M134_Black",
+      "magazine": "CPB_M134_Belt_200rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_M14",
+      "weapon": "CPB_M14",
+      "magazine": "CPB_M14_Magazine_dual",
+      "attachments": [
+        ""
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_Kivaari_Woodland",
+      "weapon": "CPB_Kivaari_Woodland",
+      "magazine": "CPB_Kivaari_Mag_20rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_KDMR_Camo",
+      "weapon": "CPB_KDMR_Camo",
+      "magazine": "CPB_KDMR_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_KDMR_Worn",
+      "weapon": "CPB_KDMR_Worn",
+      "magazine": "CPB_KDMR_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_HK417_Tan",
+      "weapon": "CPB_HK417_Tan",
+      "magazine": "CPB_HK417_20rnd_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_HK417_Black",
+      "weapon": "CPB_HK417_Black",
+      "magazine": "CPB_HK417_20rnd_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_HK416_Black",
+      "weapon": "CPB_HK416_Black",
+      "magazine": "Mag_CMAG_30Rd_Black",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_AUGA3",
+      "weapon": "CPB_AUGA3",
+      "magazine": "Mag_CMAG_30Rd_Black",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_ASH12",
+      "weapon": "CPB_ASH12",
+      "magazine": "CPB_ASH12_Magazine_20rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_Roni_Black",
+      "weapon": "CPB_Roni_Black",
+      "magazine": "CPB_Mag_32rnd_Roni",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_MP9_Black",
+      "weapon": "CPB_MP9_Black",
+      "magazine": "CPB_MP9_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_MP7A1_Black",
+      "weapon": "CPB_MP7A1_Black",
+      "magazine": "CPB_MP7_DrumMagazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "HoloSight",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CPB_AK12_PA",
+      "weapon": "CPB_AK12_PA",
+      "magazine": "Mag_MKII_10Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_Deagle_Gold",
+      "weapon": "CPB_Deagle_Gold",
+      "magazine": "CPB_BigDeag_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_Deagle_Black",
+      "weapon": "CPB_Deagle_Black",
+      "magazine": "CPB_BigDeag_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_Glock41_Black",
+      "weapon": "CPB_Glock41_Black",
+      "magazine": "CPB_Glock41_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_FN502_Black",
+      "weapon": "CPB_FN502_Black",
+      "magazine": "CPB_FN502_Magazine",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CPB_PAM1911",
+      "weapon": "CPB_PAM1911",
+      "magazine": "CPB_PAM1911_Magazine",
+      "attachments": [
+        ""
       ],
       "optic": "",
       "opticbattery": 0
@@ -2735,34 +2828,33 @@
         "LC_predefined_Massarmsan",
         "LC_predefined_A2AA12",
         "LC_predefined_Saiga",
-        "LC_predefined_AK12_PA",
         "LC_predefined_GLOCK19",
         "LC_predefined_CZ75",
-        "LC_predefined_Deagle",
-        "LC_predefined_MAGNUM",
-        "LC_predefined_FNX45",
-        "LC_predefined_Glock41",
         "LC_predefined_A2Glock17",
         "LC_predefined_A2Colt1911",
         "LC_predefined_Colt1911",
         "LC_predefined_Engraved1911",
         "LC_predefined_Ruger1022",
-        "LC_predefined_Deagle",
-        "LC_predefined_Deagle_Gold",
         "LC_predefined_A2M9",
         "LC_predefined_MassG18",
         "LC_predefined_MassG18_Green",
         "LC_predefined_Mass357M1911",
         "LC_predefined_A2MicroUzi",
         "LC_predefined_A2MicroUziSD",
-        "LC_predefined_MP7A1_Black",
-        "LC_predefined_MP9_Black",
         "LC_predefined_UMP",
         "LC_predefined_CZ61",
         "LC_predefined_MP5",
         "LC_predefined_AK74",
         "LC_predefined_UMP45",
-        "LC_predefined_MP5K"
+        "LC_predefined_MP5K",
+        "LC_predefined_CPB_PAM1911",
+        "LC_predefined_CPB_Deagle_Gold",
+        "LC_predefined_CPB_Deagle_Black",
+        "LC_predefined_CPB_Glock41_Black",
+        "LC_predefined_CPB_FN502_Black",
+        "LC_predefined_CPB_MP7A1_Black",
+        "LC_predefined_CPB_MP9_Black",
+        "LC_predefined_CPB_Roni_Black"
       ]
     },
     {
@@ -2778,20 +2870,6 @@
         "LC_predefined_A2M4SPR",
         "LC_predefined_A2mk17_s",
         "LC_predefined_A2mk17",
-        "LC_predefined_HK416D_Black",
-        "LC_predefined_SR25_Black",
-        "LC_predefined_SR25_Green",
-        "LC_predefined_SR25_Tan",
-        "LC_predefined_M447",
-        "LC_predefined_Thompson",
-        "LC_predefined_DDM4V5",
-        "LC_predefined_MCRCARB_Black",
-        "LC_predefined_MCRCARB_Tan",
-        "LC_predefined_MCRCQC_Black",
-        "LC_predefined_TX15_Black",
-        "LC_predefined_CPBHK417_Black",
-        "LC_predefined_CPBHK417_Tan",
-        "LC_predefined_FD338",
         "LC_predefined_MassKivaari",
         "LC_predefined_Massm300",
         "LC_predefined_MassScout556",
@@ -2818,28 +2896,20 @@
         "LC_predefined_Massarmsan",
         "LC_predefined_A2AA12",
         "LC_predefined_Saiga",
-        "LC_predefined_AK12_PA",
         "LC_predefined_GLOCK19",
         "LC_predefined_CZ75",
-        "LC_predefined_Deagle",
-        "LC_predefined_MAGNUM",
         "LC_predefined_FNX45",
-        "LC_predefined_Glock41",
         "LC_predefined_A2Glock17",
         "LC_predefined_A2Colt1911",
         "LC_predefined_Colt1911",
         "LC_predefined_Engraved1911",
         "LC_predefined_Ruger1022",
-        "LC_predefined_Deagle",
-        "LC_predefined_Deagle_Gold",
         "LC_predefined_A2M9",
         "LC_predefined_MassG18",
         "LC_predefined_MassG18_Green",
         "LC_predefined_Mass357M1911",
         "LC_predefined_A2MicroUzi",
         "LC_predefined_A2MicroUziSD",
-        "LC_predefined_MP7A1_Black",
-        "LC_predefined_MP9_Black",
         "LC_predefined_UMP",
         "LC_predefined_CZ61",
         "LC_predefined_MP5",
@@ -2849,14 +2919,6 @@
         "LC_predefined_A2M249",
         "LC_predefined_A2PKM",
         "LC_predefined_A2M60E4",
-        "LC_predefined_MCRSAW_Black",
-        "LC_predefined_RPK16_Black",
-        "LC_predefined_RPK16_Green",
-        "LC_predefined_RPK16_Tan",
-        "LC_predefined_SKS",
-        "LC_predefined_WINCHESTER70",
-        "LC_predefined_SA58",
-        "LC_predefined_R700",
         "LC_predefined_A2KSVK",
         "LC_predefined_A2LRRAWM",
         "LC_predefined_A2M107",
@@ -2869,16 +2931,6 @@
         "LC_predefined_A2AS50",
         "LC_predefined_A2FNFAL",
         "LC_predefined_A2WM110_black",
-        "LC_predefined_Barret",
-        "LC_predefined_Barret_Tan",
-        "LC_predefined_Barret_Green",
-        "LC_predefined_Barret_Gold",
-        "LC_predefined_M300_GreenDig",
-        "LC_predefined_M14_EFT",
-        "LC_predefined_CPBVSS",
-        "LC_predefined_KDMR_Worn",
-        "LC_predefined_KDMR_Camo",
-        "LC_predefined_Val",
         "LC_predefined_MassSVT40",
         "LC_predefined_MassSVT40_Black",
         "LC_predefined_MassSVT40_Green",
@@ -2889,13 +2941,53 @@
         "LC_predefined_Massmini14",
         "LC_predefined_Massm24",
         "LC_predefined_MassAR15DMR",
-        "LC_predefined_SKS",
-        "LC_predefined_VSS",
-        "LC_predefined_ASVAL",
-        "LC_predefined_CPBRPG7",
-        "LC_predefined_M79",
-        "LC_predefined_CPBNOV_Black",
-        "LC_predefined_CPBNadeLauncher"
+        "LC_predefined_CPB_PAM1911",
+        "LC_predefined_CPB_Deagle_Gold",
+        "LC_predefined_CPB_Deagle_Black",
+        "LC_predefined_CPB_Glock41_Black",
+        "LC_predefined_CPB_FN502_Black",
+        "LC_predefined_CPB_MP7A1_Black",
+        "LC_predefined_CPB_MP9_Black",
+        "LC_predefined_CPB_Roni_Black",
+        "LC_predefined_CPB_AK12_PA",
+        "LC_predefined_CPB_ASH12",
+        "LC_predefined_CPB_AUGA3",
+        "LC_predefined_CPB_HK416_Black",
+        "LC_predefined_CPB_HK417_Black",
+        "LC_predefined_CPB_HK417_Tan",
+        "LC_predefined_CPB_KDMR_Worn",
+        "LC_predefined_CPB_KDMR_Camo",
+        "LC_predefined_CPB_Kivaari_Woodland",
+        "LC_predefined_CPB_M14",
+        "LC_predefined_CPB_M134_Black",
+        "LC_predefined_CPB_M447",
+        "LC_predefined_CPB_MDRS_Black",
+        "LC_predefined_CPB_MK14_EBR",
+        "LC_predefined_CPB_MK14_EBR_Black",
+        "LC_predefined_CPB_RPK16_Black",
+        "LC_predefined_CPB_RPK16_Green",
+        "LC_predefined_CPB_RPK16_Tan",
+        "LC_predefined_CPB_SA58_Black",
+        "LC_predefined_CPB_SA58_Green",
+        "LC_predefined_CPB_SR25_Black",
+        "LC_predefined_CPB_SR25_Green",
+        "LC_predefined_CPB_SR25_Tan",
+        "LC_predefined_CPB_AWM_Black",
+        "LC_predefined_CPB_AX50_Tan",
+        "LC_predefined_CPB_AX50_Black",
+        "LC_predefined_CPB_Barret",
+        "LC_predefined_CPB_Barret_Green",
+        "LC_predefined_CPB_Barret_Tan",
+        "LC_predefined_CPB_Barret_Gold",
+        "LC_predefined_CPB_NOV_Black",
+        "LC_predefined_CPB_M200_White",
+        "LC_predefined_CPB_M200_Black",
+        "LC_predefined_CPB_M200_PA",
+        "LC_predefined_CPB_M300_GreenDig",
+        "LC_predefined_CPB_M300_Black",
+        "LC_predefined_CPB_R700",
+        "LC_predefined_CPB_M32",
+        "LC_predefined_CPB_M79"
       ]
     },
     {
@@ -2994,6 +3086,16 @@
         "Ammo_Expansion_M203_HE",
         "ExpansionAmmoRPG",
         "ExpansionAmmoLAW",
+        "CPB_AmmoBox_46x30_30rnd",
+        "CPB_Ammo_new_46x30",
+        "CPB_AmmoBox_127x55",
+        "CPB_Ammo_127x55",
+        "CPB_AmmoBox_50Cal",
+        "CPB_Ammo_50Cal",
+        "CPB_AmmoBox_338_20rnd",
+        "CPB_Ammo_338",
+        "CPB_AmmoBox_408Chey",
+        "CPB_Ammo_408",
         "Ammo_40mm_HE",
         "Ammo_40mm_BHE",
         "Ammo_40mm_Color_White",
@@ -3005,13 +3107,6 @@
         "Ammo_FlareRed",
         "Ammo_FlareGreen",
         "Ammo_FlareBlue",
-        "Ammo_12x7mm",
-        "CPBAmmo_RPG7",
-        "AmmoBox_408Chey",
-        "Ammo_new_46x30",
-        "AmmoBox_new_46x30",
-        "Ammo_50Cal",
-        "AmmoBox_50Cal",
         "M67Grenade",
         "RGD5Grenade",
         "ExpansionSatchel",
@@ -3087,23 +3182,6 @@
         "Mag_Kedr_20Rnd",
         "Mag_MP7_40Rnd",
         "Mag_AWM_5Rnd",
-        "FD338_Mag",
-        "MP9_Magazine",
-        "BigDeag_Magazine",
-        "Thompson_StickMag",
-        "Thompson_DrumMag",
-        "MP7_Magazine",
-        "MP7_DrumMagazine",
-        "OPSKS_Magazine",
-        "Glock41_Magazine",
-        "VP9_Magazine",
-        "DDM4V5_Magazine",
-        "Val_Magazine",
-        "ASH12_Magazine",
-        "KDMR_Magazine",
-        "M14_Magazine",
-        "M14_Magazine_dual",
-        "M14_Magazine_Extended",
         "Steel_10rnd_Magazine",
         "Steel_20rnd_Magazine",
         "Steel_30rnd_Magazine",
@@ -3111,22 +3189,7 @@
         "Polymer_30rnd_Magazine",
         "Polymer_40rnd_Magazine",
         "Polymer_60rnd_Magazine",
-        "SA58_Magazine",
-        "SA58_Drum_Magazine",
-        "Asval_Magazine",
-        "Asval_Magazine_Dual",
-        "Asval_Magazine_Extended",
-        "RPK16_DrumMagazine",
-        "SR25_Magazine",
-        "SR25_Magazine_Extendo",
-        "R700_Magazine",
-        "m200_Magazine",
-        "Barret_Magazine",
         "MPX_Magazine",
-        "HK417_10rnd_Magazine",
-        "CPBHK417_20rnd_Magazine",
-        "CPBNOV_20rnd_Magazine",
-        "Mag_M32_6Rnd",
         "A2M14_DMRMAG",
         "A2WM110_mag",
         "A2mk17_mag",
@@ -3159,7 +3222,40 @@
         "MassSVTmag",
         "Mass308STANAG",
         "Mass357M1911Mag",
-        "MassG18Mag"
+        "MassG18Mag",
+        "CPB_Mag_M32_6Rnd",
+        "CPB_PAM1911_Magazine",
+        "CPB_BigDeag_Magazine",
+        "CPB_Glock41_Magazine",
+        "CPB_ASH12_Magazine_10rnd",
+        "CPB_ASH12_Magazine_20rnd",
+        "CPB_HK417_10rnd_Magazine",
+        "CPB_HK417_20rnd_Magazine",
+        "CPB_KDMR_Magazine",
+        "CPB_Kivaari_Mag_10rnd",
+        "CPB_Kivaari_Mag_20rnd",
+        "CPB_M14_Magazine",
+        "CPB_M14_Magazine_dual",
+        "CPB_M14_Magazine_Extended",
+        "CPB_M134_Belt_200rnd",
+        "CPB_RPK16_DrumMagazine",
+        "CPB_SA58_Magazine",
+        "CPB_SA58_Drum_Magazine",
+        "CPB_SR25_Magazine",
+        "CPB_SR25_Magazine_Extendo",
+        "CPB_SR25_Magazine_QR",
+        "CPB_MP7_Magazine",
+        "CPB_MP7_DrumMagazine",
+        "CPB_MP9_Magazine",
+        "CPB_Mag_32rnd_Roni",
+        "CPB_AWM_Magazine",
+        "CPB_AX50_Magazine",
+        "CPB_Barret_Magazine",
+        "CPB_NOV_20rnd_Magazine",
+        "CPB_M200_Magazine",
+        "CPB_M200PA_Magazine",
+        "CPB_M300_Magazine",
+        "CPB_R700_Magazine"
       ]
     },
     {
@@ -3246,26 +3342,22 @@
         "Expansion_M1A_RailAtt",
         "Expansion_ANPEQ15_Red",
         "Expansion_Kar98_Bayonet",
-        "BSuppressor",
-        "MP9Suppressor",
-        "SR25_Suppressor",
-        "CPBACOG_RMR",
-        "BMD_Compensator",
-        "pbssuppressor",
-        "SVDBipod_Black",
-        "HoloSight",
-        "HurricaneSight",
-        "T1",
-        "M14Rail",
-        "ASVALRail",
-        "Asgrip1",
-        "VerticalGrip_Black",
-        "Bipod_Black,",
-        "PGEN3_Black",
-        "HKE1_Black",
-        "ETATH_Black",
-        "spectreds",
-        "DMRScope",
+        "CPB_X300Flashlight",
+        "CPB_VerticalGrip_Black",
+        "CPB_Bipod_Black",
+        "CPB_BMD_Compensator",
+        "CPB_M200Suppressor",
+        "CPB_SR25_Suppressor",
+        "CPB_MP9Suppressor",
+        "CPB_ACOG_RMR",
+        "CPB_ATN_Black",
+        "CPB_ELCAN",
+        "CPB_EXPS3",
+        "CPB_UnmagnifiedHoloOptic",
+        "CPB_K624I_Black_RMR",
+        "CPB_NFATAC_RMR",
+        "CPB_PEScope",
+        "CPB_RMR",
         "A2Suppressor",
         "LrrScope",
         "A2M4SPRScope",
@@ -3697,21 +3789,20 @@
       "Loot": [
         "LC_predefined_GLOCK19",
         "LC_predefined_CZ75",
-        "LC_predefined_Deagle",
-        "LC_predefined_MAGNUM",
-        "LC_predefined_FNX45",
-        "LC_predefined_Glock41",
         "LC_predefined_A2Glock17",
         "LC_predefined_A2Colt1911",
         "LC_predefined_Colt1911",
         "LC_predefined_Engraved1911",
         "LC_predefined_Ruger1022",
-        "LC_predefined_Deagle",
-        "LC_predefined_Deagle_Gold",
         "LC_predefined_A2M9",
         "LC_predefined_MassG18",
         "LC_predefined_MassG18_Green",
-        "LC_predefined_Mass357M1911"
+        "LC_predefined_Mass357M1911",
+        "LC_predefined_CPB_PAM1911",
+        "LC_predefined_CPB_Deagle_Gold",
+        "LC_predefined_CPB_Deagle_Black",
+        "LC_predefined_CPB_Glock41_Black",
+        "LC_predefined_CPB_FN502_Black"
       ]
     },
     {
@@ -3719,8 +3810,9 @@
       "Loot": [
         "LC_predefined_A2MicroUzi",
         "LC_predefined_A2MicroUziSD",
-        "LC_predefined_MP7A1_Black",
-        "LC_predefined_MP9_Black",
+        "LC_predefined_CPB_MP7A1_Black",
+        "LC_predefined_CPB_MP9_Black",
+        "LC_predefined_CPB_Roni_Black",
         "LC_predefined_UMP",
         "LC_predefined_CZ61",
         "LC_predefined_MP5",
@@ -3734,8 +3826,7 @@
       "Loot": [
         "LC_predefined_Massarmsan",
         "LC_predefined_A2AA12",
-        "LC_predefined_Saiga",
-        "LC_predefined_AK12_PA"
+        "LC_predefined_Saiga"
       ]
     },
     {
@@ -3763,20 +3854,29 @@
         "LC_predefined_A2M4SPR",
         "LC_predefined_A2mk17_s",
         "LC_predefined_A2mk17",
-        "LC_predefined_HK416D_Black",
-        "LC_predefined_SR25_Black",
-        "LC_predefined_SR25_Green",
-        "LC_predefined_SR25_Tan",
-        "LC_predefined_M447",
-        "LC_predefined_Thompson",
-        "LC_predefined_DDM4V5",
-        "LC_predefined_MCRCARB_Black",
-        "LC_predefined_MCRCARB_Tan",
-        "LC_predefined_MCRCQC_Black",
-        "LC_predefined_TX15_Black",
-        "LC_predefined_CPBHK417_Black",
-        "LC_predefined_CPBHK417_Tan",
-        "LC_predefined_FD338",
+        "LC_predefined_CPB_AK12_PA",
+        "LC_predefined_CPB_ASH12",
+        "LC_predefined_CPB_AUGA3",
+        "LC_predefined_CPB_HK416_Black",
+        "LC_predefined_CPB_HK417_Black",
+        "LC_predefined_CPB_HK417_Tan",
+        "LC_predefined_CPB_KDMR_Worn",
+        "LC_predefined_CPB_KDMR_Camo",
+        "LC_predefined_CPB_Kivaari_Woodland",
+        "LC_predefined_CPB_M14",
+        "LC_predefined_CPB_M134_Black",
+        "LC_predefined_CPB_M447",
+        "LC_predefined_CPB_MDRS_Black",
+        "LC_predefined_CPB_MK14_EBR",
+        "LC_predefined_CPB_MK14_EBR_Black",
+        "LC_predefined_CPB_RPK16_Black",
+        "LC_predefined_CPB_RPK16_Green",
+        "LC_predefined_CPB_RPK16_Tan",
+        "LC_predefined_CPB_SA58_Black",
+        "LC_predefined_CPB_SA58_Green",
+        "LC_predefined_CPB_SR25_Black",
+        "LC_predefined_CPB_SR25_Green",
+        "LC_predefined_CPB_SR25_Tan",
         "LC_predefined_MassKivaari",
         "LC_predefined_Massm300",
         "LC_predefined_MassScout556",
@@ -3814,16 +3914,20 @@
         "LC_predefined_A2AS50",
         "LC_predefined_A2FNFAL",
         "LC_predefined_A2WM110_black",
-        "LC_predefined_Barret",
-        "LC_predefined_Barret_Tan",
-        "LC_predefined_Barret_Green",
-        "LC_predefined_Barret_Gold",
-        "LC_predefined_M300_GreenDig",
-        "LC_predefined_M14_EFT",
-        "LC_predefined_CPBVSS",
-        "LC_predefined_KDMR_Worn",
-        "LC_predefined_KDMR_Camo",
-        "LC_predefined_Val",
+        "LC_predefined_CPB_AWM_Black",
+        "LC_predefined_CPB_AX50_Tan",
+        "LC_predefined_CPB_AX50_Black",
+        "LC_predefined_CPB_Barret",
+        "LC_predefined_CPB_Barret_Green",
+        "LC_predefined_CPB_Barret_Tan",
+        "LC_predefined_CPB_Barret_Gold",
+        "LC_predefined_CPB_NOV_Black",
+        "LC_predefined_CPB_M200_White",
+        "LC_predefined_CPB_M200_Black",
+        "LC_predefined_CPB_M200_PA",
+        "LC_predefined_CPB_M300_GreenDig",
+        "LC_predefined_CPB_M300_Black",
+        "LC_predefined_CPB_R700",
         "LC_predefined_MassSVT40",
         "LC_predefined_MassSVT40_Black",
         "LC_predefined_MassSVT40_Green",
@@ -4356,26 +4460,22 @@
         "Expansion_M1A_RailAtt",
         "Expansion_ANPEQ15_Red",
         "Expansion_Kar98_Bayonet",
-        "BSuppressor",
-        "MP9Suppressor",
-        "SR25_Suppressor",
-        "CPBACOG_RMR",
-        "BMD_Compensator",
-        "pbssuppressor",
-        "SVDBipod_Black",
-        "HoloSight",
-        "HurricaneSight",
-        "T1",
-        "M14Rail",
-        "ASVALRail",
-        "Asgrip1",
-        "VerticalGrip_Black",
-        "Bipod_Black,",
-        "PGEN3_Black",
-        "HKE1_Black",
-        "ETATH_Black",
-        "spectreds",
-        "DMRScope",
+        "CPB_X300Flashlight",
+        "CPB_VerticalGrip_Black",
+        "CPB_Bipod_Black",
+        "CPB_BMD_Compensator",
+        "CPB_M200Suppressor",
+        "CPB_SR25_Suppressor",
+        "CPB_MP9Suppressor",
+        "CPB_ACOG_RMR",
+        "CPB_ATN_Black",
+        "CPB_ELCAN",
+        "CPB_EXPS3",
+        "CPB_UnmagnifiedHoloOptic",
+        "CPB_K624I_Black_RMR",
+        "CPB_NFATAC_RMR",
+        "CPB_PEScope",
+        "CPB_RMR",
         "A2Suppressor",
         "LrrScope",
         "A2M4SPRScope",
